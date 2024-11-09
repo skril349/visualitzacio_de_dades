@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+  <rect width="506.283" height="322.73" x="-6.53" y="-418.484" id="background" style="stroke: rgb(255, 242, 213); fill: rgb(255, 240, 204);" transform="matrix(1, 0, 0, -1, 0, 0)"/>
+  <g transform="matrix(0.419452, 0, 0, 0.398286, 65.096749, 152.290635)" id="viz" style="">
+    <g id="nodes">
+      <g transform="translate(383.5,281)">
+        <path id="p_944.5" d="M-5.143516556418883e-14,280A280,280,0,1,1,5.143516556418883e-14,-280A280,280,0,1,1,-5.143516556418883e-14,280Z" style="stroke: rgb(7, 5, 5);" fill="none"/>
+      </g>
+      <g transform="translate(301.0873595378943,280.29026542159886)" id="Burgers">
+        <path id="p_689.218391445597" d="M-1.9810027424220618e-14,107.84076648610376A107.84076648610376,107.84076648610376,0,1,1,1.9810027424220618e-14,-107.84076648610376A107.84076648610376,107.84076648610376,0,1,1,-1.9810027424220618e-14,107.84076648610376Z" style="fill: rgb(44, 1, 198); fill-opacity: 0.19; stroke: rgb(34, 18, 204);"/>
+      </g>
+      <g transform="translate(506.8617627045831,280.29026542159886)" id="Sandwiches">
+        <path id="p_883.210669818268" d="M-1.7645686211798364e-14,96.05864169208613A96.05864169208613,96.05864169208613,0,1,1,1.7645686211798364e-14,-96.05864169208613A96.05864169208613,96.05864169208613,0,1,1,-1.7645686211798364e-14,96.05864169208613Z" style="fill-opacity: 0.24; paint-order: fill; fill-rule: nonzero; stroke: rgb(249, 162, 233); fill: rgb(232, 151, 222);"/>
+      </g>
+      <g transform="translate(414.8342104785426,439.36006847493337)" id="Pizza">
+        <path id="p_940.0329813561797" d="M-1.5768313821064993e-14,85.83870240270369A85.83870240270369,85.83870240270369,0,1,1,1.5768313821064993e-14,-85.83870240270369A85.83870240270369,85.83870240270369,0,1,1,-1.5768313821064993e-14,85.83870240270369Z" style="stroke: rgb(123, 71, 29); fill-opacity: 0.48; fill: rgb(142, 81, 0);"/>
+      </g>
+      <g transform="translate(414.1524385029468,135.5745670746578)" id="Drinks">
+        <path id="p_623.6585839405732" d="M-1.358101061971819e-14,73.93157836296865A73.93157836296865,73.93157836296865,0,1,1,1.358101061971819e-14,-73.93157836296865A73.93157836296865,73.93157836296865,0,1,1,-1.358101061971819e-14,73.93157836296865Z" style="fill: rgb(151, 22, 202); fill-opacity: 0.36; stroke: rgb(142, 8, 183);"/>
+      </g>
+      <g transform="translate(272.78049072791123,103.71917509502023)" id="Chicken">
+        <path id="p_445.60959814243205" d="M-1.2695288610654996e-14,69.10993231950061A69.10993231950061,69.10993231950061,0,1,1,1.2695288610654996e-14,-69.10993231950061A69.10993231950061,69.10993231950061,0,1,1,-1.2695288610654996e-14,69.10993231950061Z" style="stroke: rgb(216, 127, 35); fill: rgb(213, 87, 12); fill-opacity: 0.31;"/>
+      </g>
+      <g transform="translate(260.5289434107133,452.43743760348116)" id="Tex-Mex">
+        <path id="p_780.1111126095938" d="M-1.2334287094187096e-14,67.14473159539936A67.14473159539936,67.14473159539936,0,1,1,1.2334287094187096e-14,-67.14473159539936A67.14473159539936,67.14473159539936,0,1,1,-1.2334287094187096e-14,67.14473159539936Z" style="fill: rgb(134, 134, 132); fill-opacity: 0.32; stroke: rgb(124, 124, 124);"/>
+      </g>
+      <g transform="translate(545.0315732196233,132.07321530993053)" id="Donuts">
+        <path id="p_732.2241765775212" d="M-1.012526732158562e-14,55.11938804796739A55.11938804796739,55.11938804796739,0,1,1,1.012526732158562e-14,-55.11938804796739A55.11938804796739,55.11938804796739,0,1,1,-1.012526732158562e-14,55.11938804796739Z" style="stroke: rgb(208, 16, 16); fill: rgb(213, 14, 15); fill-opacity: 0.24;"/>
+      </g>
+      <g transform="translate(555.8110609751079,424.2026990966295)" id="Desserts">
+        <path id="p_1034.0894072110787" d="M-9.9335352271524e-15,54.07564713934126A54.07564713934126,54.07564713934126,0,1,1,9.9335352271524e-15,-54.07564713934126A54.07564713934126,54.07564713934126,0,1,1,-9.9335352271524e-15,54.07564713934126Z" style="fill: rgb(160, 209, 2); fill-opacity: 0.39; stroke: rgb(117, 177, 31);"/>
+      </g>
+      <g transform="translate(264.686840200266,282.2501677145954)" id="McDonald's">
+        <path id="p_598.5757104396308" d="M-9.485875763862186e-15,51.63870252476944A51.63870252476944,51.63870252476944,0,1,1,9.485875763862186e-15,-51.63870252476944A51.63870252476944,51.63870252476944,0,1,1,-9.485875763862186e-15,51.63870252476944Z" fill="#1f77b4" stroke="none"/>
+      </g>
+      <g transform="translate(356.39354772467453,282.2501677145954)" id="Burger King">
+        <path id="p_676.8367254504102" d="M-7.015942118991858e-15,38.193010011140245A38.193010011140245,38.193010011140245,0,1,1,7.015942118991858e-15,-38.193010011140245A38.193010011140245,38.193010011140245,0,1,1,-7.015942118991858e-15,38.193010011140245Z" fill="#1f77b4" stroke="none"/>
+      </g>
+      <g transform="translate(322.4483021461856,348.5636843173635)" id="Wendy's">
+        <path id="p_705.4407074430395" d="M-6.32445344194054e-15,34.42872097949042A34.42872097949042,34.42872097949042,0,1,1,6.32445344194054e-15,-34.42872097949042A34.42872097949042,34.42872097949042,0,1,1,-6.32445344194054e-15,34.42872097949042Z" fill="#1f77b4" stroke="none"/>
+      </g>
+      <g transform="translate(321.3148165200045,225.44216744799508)" id="Sonic Drive-in">
+        <path id="p_573.4547357394745" d="M-4.904297437705095e-15,26.697751771474888A26.697751771474888,26.697751771474888,0,1,1,4.904297437705095e-15,-26.697751771474888A26.697751771474888,26.697751771474888,0,1,1,-4.904297437705095e-15,26.697751771474888Z" fill="#1f77b4" stroke="none"/>
+      </g>
+      <g transform="translate(274.8356814468122,208.55175385253182)" id="Jack in the Box">
+        <path id="p_504.2676567877764" d="M-3.8356344616944704e-15,20.88022148843236A20.88022148843236,20.88022148843236,0,1,1,3.8356344616944704e-15,-20.88022148843236A20.88022148843236,20.88022148843236,0,1,1,-3.8356344616944704e-15,20.88022148843236Z" fill="#1f77b4" stroke="none"/>
+      </g>
+      <g transform="translate(267.85001959166203,354.28831106165023)" id="Hardee's">
+        <path id="p_640.732190308159" d="M-3.4156366065154592e-15,18.593859654846653A18.593859654846653,18.593859654846653,0,1,1,3.4156366065154592e-15,-18.593859654846653A18.593859654846653,18.593859654846653,0,1,1,-3.4156366065154592e-15,18.593859654846653Z" fill="#1f77b4" stroke="none"/>
+      </g>
+      <g transform="translate(366.79329469742424,226.2267524293447)" id="Five Guys">
+        <path id="p_609.9325457868982" d="M-3.1067756024566785e-15,16.912498660129256A16.912498660129256,16.912498660129256,0,1,1,3.1067756024566785e-15,-16.912498660129256A16.912498660129256,16.912498660129256,0,1,1,-3.1067756024566785e-15,16.912498660129256Z" fill="#1f77b4" stroke="none"/>
+      </g>
+      <g transform="translate(371.4695510557009,334.80929868328093)" id="Carl's Jr.">
+        <path id="p_720.8894340099206" d="M-2.683920789161677e-15,14.610584270938785A14.610584270938785,14.610584270938785,0,1,1,2.683920789161677e-15,-14.610584270938785A14.610584270938785,14.610584270938785,0,1,1,-2.683920789161677e-15,14.610584270938785Z" fill="#1f77b4" stroke="none"/>
+      </g>
+      <g transform="translate(240.220474846499,219.73254849664988)" id="Whataburger">
+        <path id="p_473.573934984206" d="M-2.502120876403433e-15,13.620911641057143A13.620911641057143,13.620911641057143,0,1,1,2.502120876403433e-15,-13.620911641057143A13.620911641057143,13.620911641057143,0,1,1,-2.502120876403433e-15,13.620911641057143Z" fill="#1f77b4" stroke="none"/>
+      </g>
+      <g transform="translate(235.83727019364287,342.788001752619)" id="Culver's">
+        <path id="p_592.17219655643" d="M-2.488529679319931e-15,13.546924610168105A13.546924610168105,13.546924610168105,0,1,1,2.488529679319931e-15,-13.546924610168105A13.546924610168105,13.546924610168105,0,1,1,-2.488529679319931e-15,13.546924610168105Z" fill="#1f77b4" stroke="none"/>
+      </g>
+      <g transform="translate(303.9307436327122,187.51590050670566)" id="Checkers / Rally's">
+        <path id="p_504.59448838979097" d="M-2.4152198065360888e-15,13.147844250373028A13.147844250373028,13.147844250373028,0,1,1,2.4152198065360888e-15,-13.147844250373028A13.147844250373028,13.147844250373028,0,1,1,-2.4152198065360888e-15,13.147844250373028Z" fill="#1f77b4" stroke="none"/>
+      </g>
+      <g transform="translate(388.60358446568966,244.42172055579317)" id="Freddy's Frozen Custard &amp; Steakburgers">
+        <path id="p_642.6410788767561" d="M-1.7663890009777807e-15,9.615773855273263A9.615773855273263,9.615773855273263,0,1,1,1.7663890009777807e-15,-9.615773855273263A9.615773855273263,9.615773855273263,0,1,1,-1.7663890009777807e-15,9.615773855273263Z" fill="#1f77b4" stroke="none"/>
+      </g>
+      <g transform="translate(286.98679387302445,376.4304749089349)" id="In-N-Out Burger">
+        <path id="p_672.2142910216976" d="M-1.6159867691885213e-15,8.797022239738208A8.797022239738208,8.797022239738208,0,1,1,1.6159867691885213e-15,-8.797022239738208A8.797022239738208,8.797022239738208,0,1,1,-1.6159867691885213e-15,8.797022239738208Z" fill="#1f77b4" stroke="none"/>
+      </g>
+      <g transform="translate(351.3153513716158,203.9781217096995)" id="White Castle">
+        <path id="p_563.6088999117809" d="M-1.5275191277210538e-15,8.31542683046558A8.31542683046558,8.31542683046558,0,1,1,1.5275191277210538e-15,-8.31542683046558A8.31542683046558,8.31542683046558,0,1,1,-1.5275191277210538e-15,8.31542683046558Z" fill="#1f77b4" stroke="none"/>
+      </g>
+      <g transform="translate(387.4440809509391,317.60856335780414)" id="Shake Shack">
+        <path id="p_712.0415384429937" d="M-1.2838390246634042e-15,6.988894134250317A6.988894134250317,6.988894134250317,0,1,1,1.2838390246634042e-15,-6.988894134250317A6.988894134250317,6.988894134250317,0,1,1,-1.2838390246634042e-15,6.988894134250317Z" fill="#1f77b4" stroke="none"/>
+      </g>
+      <g transform="translate(477.6847768794091,284.81018061353404)" id="Subway">
+        <path id="p_827.1535955566554" d="M-1.187759912129287e-14,64.65863806371229A64.65863806371229,64.65863806371229,0,1,1,1.187759912129287e-14,-64.65863806371229A64.65863806371229,64.65863806371229,0,1,1,-1.187759912129287e-14,64.65863806371229Z" fill="#e377c2" stroke="none"/>
+      </g>
+      <g transform="translate(570.4413789740922,284.81018061353404)" id="Arby's">
+        <path id="p_881.4745286300982" d="M-4.817081265300516e-15,26.222969042471977A26.222969042471977,26.222969042471977,0,1,1,4.817081265300516e-15,-26.222969042471977A26.222969042471977,26.222969042471977,0,1,1,-4.817081265300516e-15,26.222969042471977Z" fill="#e377c2" stroke="none"/>
+      </g>
+      <g transform="translate(553.402819007421,333.5027790017832)" id="Jimmy John's">
+        <path id="p_910.3952455098519" d="M-4.314978243715153e-15,23.489647500647585A23.489647500647585,23.489647500647585,0,1,1,4.314978243715153e-15,-23.489647500647585A23.489647500647585,23.489647500647585,0,1,1,-4.314978243715153e-15,23.489647500647585Z" fill="#e377c2" stroke="none"/>
+      </g>
+      <g transform="translate(552.7649342459364,237.98746841166997)" id="Jersey Mike's">
+        <path id="p_812.7026461486452" d="M-4.032194314770846e-15,21.95024349103876A21.95024349103876,21.95024349103876,0,1,1,4.032194314770846e-15,-21.95024349103876A21.95024349103876,21.95024349103876,0,1,1,-4.032194314770846e-15,21.95024349103876Z" fill="#e377c2" stroke="none"/>
+      </g>
+      <g transform="translate(519.5468811144065,208.08298274568756)" id="Panera Bread">
+        <path id="p_748.500456470224" d="M-3.833865665445607e-15,20.87059261012995A20.87059261012995,20.87059261012995,0,1,1,3.833865665445607e-15,-20.87059261012995A20.87059261012995,20.87059261012995,0,1,1,-3.833865665445607e-15,20.87059261012995Z" fill="#e377c2" stroke="none"/>
+      </g>
+      <g transform="translate(519.0688237335212,355.6007531425803)" id="Firehouse Subs">
+        <path id="p_890.135605365957" d="M-2.8410633428435026e-15,15.466028489855534A15.466028489855534,15.466028489855534,0,1,1,2.8410633428435026e-15,-15.466028489855534A15.466028489855534,15.466028489855534,0,1,1,-2.8410633428435026e-15,15.466028489855534Z" fill="#e377c2" stroke="none"/>
+      </g>
+      <g transform="translate(486.3839515754198,208.35140676819714)" id="McAlister's Deli">
+        <path id="p_705.1537865914391" d="M-1.9138342208762673e-15,10.418428247822167A10.418428247822167,10.418428247822167,0,1,1,1.9138342208762673e-15,-10.418428247822167A10.418428247822167,10.418428247822167,0,1,1,-1.9138342208762673e-15,10.418428247822167Z" fill="#e377c2" stroke="none"/>
+      </g>
+      <g transform="translate(377.74977630483164,438.44135320885766)" id="Pizza Hut">
+        <path id="p_852.6556283810669" d="M-6.698419773066936e-15,36.464498867377586A36.464498867377586,36.464498867377586,0,1,1,6.698419773066936e-15,-36.464498867377586A36.464498867377586,36.464498867377586,0,1,1,-6.698419773066936e-15,36.464498867377586Z" fill="#8c564b" stroke="none"/>
+      </g>
+      <g transform="translate(452.4322939819779,438.44135320885766)" id="Domino's">
+        <path id="p_927.2166710121054" d="M-6.6761051691081174e-15,36.34302382126984A36.34302382126984,36.34302382126984,0,1,1,6.6761051691081174e-15,-36.34302382126984A36.34302382126984,36.34302382126984,0,1,1,-6.6761051691081174e-15,36.34302382126984Z" fill="#8c564b" stroke="none"/>
+      </g>
+      <g transform="translate(415.2004058780032,494.36049225532304)" id="Little Caesars">
+        <path id="p_938.5229627075845" d="M-5.3202449516346544e-15,28.96206457425829A28.96206457425829,28.96206457425829,0,1,1,5.3202449516346544e-15,-28.96206457425829A28.96206457425829,28.96206457425829,0,1,1,-5.3202449516346544e-15,28.96206457425829Z" fill="#8c564b" stroke="none"/>
+      </g>
+      <g transform="translate(415.1939983111756,387.32678411261577)" id="Papa Johns">
+        <path id="p_827.5434928821184" d="M-4.59659734031717e-15,25.02271045832698A25.02271045832698,25.02271045832698,0,1,1,4.59659734031717e-15,-25.02271045832698A25.02271045832698,25.02271045832698,0,1,1,-4.59659734031717e-15,25.02271045832698Z" fill="#8c564b" stroke="none"/>
+      </g>
+      <g transform="translate(373.01388775442365,384.96253348829674)" id="Papa Murphy's">
+        <path id="p_773.3250340685489" d="M-2.8194944352754446e-15,15.348612825828566A15.348612825828566,15.348612825828566,0,1,1,2.8194944352754446e-15,-15.348612825828566A15.348612825828566,15.348612825828566,0,1,1,-2.8194944352754446e-15,15.348612825828566Z" fill="#8c564b" stroke="none"/>
+      </g>
+      <g transform="translate(457.2436586343635,385.2365663940846)" id="Marco's Pizza">
+        <path id="p_857.684098452329" d="M-2.7929062384795887e-15,15.203873423880905A15.203873423880905,15.203873423880905,0,1,1,2.7929062384795887e-15,-15.203873423880905A15.203873423880905,15.203873423880905,0,1,1,-2.7929062384795887e-15,15.203873423880905Z" fill="#8c564b" stroke="none"/>
+      </g>
+      <g transform="translate(398.51520425799043,135.5745670746578)" id="Starbucks">
+        <path id="p_590.5091204621617" d="M-1.0364066298215337e-14,56.41934912951339A56.41934912951339,56.41934912951339,0,1,1,1.0364066298215337e-14,-56.41934912951339A56.41934912951339,56.41934912951339,0,1,1,-1.0364066298215337e-14,56.41934912951339Z" fill="#9467bd" stroke="none"/>
+      </g>
+      <g transform="translate(471.50928512670964,135.5745670746578)" id="Tropical Smoothie Café">
+        <path id="p_621.7835889520744" d="M-2.7002978340092926e-15,14.699736750706927A14.699736750706927,14.699736750706927,0,1,1,2.7002978340092926e-15,-14.699736750706927A14.699736750706927,14.699736750706927,0,1,1,-2.7002978340092926e-15,14.699736750706927Z" fill="#9467bd" stroke="none"/>
+      </g>
+      <g transform="translate(462.80378006525115,161.93973482357018)" id="Tim Hortons">
+        <path id="p_635.9340112020441" d="M-2.0556608236287852e-15,11.190496313222807A11.190496313222807,11.190496313222807,0,1,1,2.0556608236287852e-15,-11.190496313222807A11.190496313222807,11.190496313222807,0,1,1,-2.0556608236287852e-15,11.190496313222807Z" fill="#9467bd" stroke="none"/>
+      </g>
+      <g transform="translate(247.11528076292464,102.02248057705219)" id="KFC">
+        <path id="p_377.4150467007625" d="M-5.1944530508493784e-15,28.277285360785708A28.277285360785708,28.277285360785708,0,1,1,5.1944530508493784e-15,-28.277285360785708A28.277285360785708,28.277285360785708,0,1,1,-5.1944530508493784e-15,28.277285360785708Z" fill="#ff7f0e" stroke="none"/>
+      </g>
+      <g transform="translate(301.3987974317863,102.02248057705219)" id="Chick-Fil-A">
+        <path id="p_427.5525143284156" d="M-4.432836197735768e-15,24.131236319577102A24.131236319577102,24.131236319577102,0,1,1,4.432836197735768e-15,-24.131236319577102A24.131236319577102,24.131236319577102,0,1,1,-4.432836197735768e-15,24.131236319577102Z" fill="#ff7f0e" stroke="none"/>
+      </g>
+      <g transform="translate(278.2441190205062,146.48360055340603)" id="Popeyes Louisiana Kitchen">
+        <path id="p_448.8506247224075" d="M-4.431305786435976e-15,24.12290514849519A24.12290514849519,24.12290514849519,0,1,1,4.431305786435976e-15,-24.12290514849519A24.12290514849519,24.12290514849519,0,1,1,-4.431305786435976e-15,24.12290514849519Z" fill="#ff7f0e" stroke="none"/>
+      </g>
+      <g transform="translate(277.8271801208648,64.07767902891402)" id="Wingstop">
+        <path id="p_360.5688540240284" d="M-3.4285202373078515e-15,18.66399487424957A18.66399487424957,18.66399487424957,0,1,1,3.4285202373078515e-15,-18.66399487424957A18.66399487424957,18.66399487424957,0,1,1,-3.4285202373078515e-15,18.66399487424957Z" fill="#ff7f0e" stroke="none"/>
+      </g>
+      <g transform="translate(244.16353446103034,58.36372306877963)" id="Zaxby's">
+        <path id="p_316.1334039506561" d="M-2.4994085494529175e-15,13.606146420846148A13.606146420846148,13.606146420846148,0,1,1,2.4994085494529175e-15,-13.606146420846148A13.606146420846148,13.606146420846148,0,1,1,-2.4994085494529175e-15,13.606146420846148Z" fill="#ff7f0e" stroke="none"/>
+      </g>
+      <g transform="translate(239.05735983409286,144.65153610684325)" id="Church's Chicken">
+        <path id="p_396.940558071068" d="M-2.430616901259785e-15,13.231662130131863A13.231662130131863,13.231662130131863,0,1,1,2.430616901259785e-15,-13.231662130131863A13.231662130131863,13.231662130131863,0,1,1,-2.430616901259785e-15,13.231662130131863Z" fill="#ff7f0e" stroke="none"/>
+      </g>
+      <g transform="translate(310.9550817268352,64.62447497521636)" id="Bojangles">
+        <path id="p_388.1729807359957" d="M-2.3133744650212566e-15,12.593424033944144A12.593424033944144,12.593424033944144,0,1,1,2.3133744650212566e-15,-12.593424033944144A12.593424033944144,12.593424033944144,0,1,1,-2.3133744650212566e-15,12.593424033944144Z" fill="#ff7f0e" stroke="none"/>
+      </g>
+      <g transform="translate(314.50862045779036,137.11676011553902)" id="Raising Cane's">
+        <path id="p_463.08214322060354" d="M-2.1045731556862893e-15,11.456762647274164A11.456762647274164,11.456762647274164,0,1,1,2.1045731556862893e-15,-11.456762647274164A11.456762647274164,11.456762647274164,0,1,1,-2.1045731556862893e-15,11.456762647274164Z" fill="#ff7f0e" stroke="none"/>
+      </g>
+      <g transform="translate(234.64919454251103,452.43743760348116)" id="Taco Bell">
+        <path id="p_726.4766198846904" d="M-7.235823360397542e-15,39.38998773869824A39.38998773869824,39.38998773869824,0,1,1,7.235823360397542e-15,-39.38998773869824A39.38998773869824,39.38998773869824,0,1,1,-7.235823360397542e-15,39.38998773869824Z" fill="#7f7f7f" stroke="none"/>
+      </g>
+      <g transform="translate(300.85642864366093,452.43743760348116)" id="Chipotle">
+        <path id="p_778.2361176210949" d="M-4.581817246295996e-15,24.942251373952807A24.942251373952807,24.942251373952807,0,1,1,4.581817246295996e-15,-24.942251373952807A24.942251373952807,24.942251373952807,0,1,1,-4.581817246295996e-15,24.942251373952807Z" fill="#7f7f7f" stroke="none"/>
+      </g>
+      <g transform="translate(277.8606157664009,484.05466846568555)" id="Qdoba">
+        <path id="p_774.1935196709873" d="M-2.255475259414136e-15,12.278235438900893A12.278235438900893,12.278235438900893,0,1,1,2.255475259414136e-15,-12.278235438900893A12.278235438900893,12.278235438900893,0,1,1,-2.255475259414136e-15,12.278235438900893Z" fill="#7f7f7f" stroke="none"/>
+      </g>
+      <g transform="translate(277.74561485720466,421.55996326789995)" id="Moe's">
+        <path id="p_711.056818059327" d="M-2.1586677557186993e-15,11.751239934222383A11.751239934222383,11.751239934222383,0,1,1,2.1586677557186993e-15,-11.751239934222383A11.751239934222383,11.751239934222383,0,1,1,-2.1586677557186993e-15,11.751239934222383Z" fill="#7f7f7f" stroke="none"/>
+      </g>
+      <g transform="translate(258.67201345195826,406.113140263126)" id="Del Taco">
+        <path id="p_675.702891810337" d="M-2.0055559518420333e-15,10.917738095252606A10.917738095252606,10.917738095252606,0,1,1,2.0055559518420333e-15,-10.917738095252606A10.917738095252606,10.917738095252606,0,1,1,-2.0055559518420333e-15,10.917738095252606Z" fill="#7f7f7f" stroke="none"/>
+      </g>
+      <g transform="translate(258.16886190405074,497.8922376775552)" id="El Pollo Loco">
+        <path id="p_765.9753470417761" d="M-1.8212177127078136e-15,9.914247460170102A9.914247460170102,9.914247460170102,0,1,1,1.8212177127078136e-15,-9.914247460170102A9.914247460170102,9.914247460170102,0,1,1,-1.8212177127078136e-15,9.914247460170102Z" fill="#7f7f7f" stroke="none"/>
+      </g>
+      <g transform="translate(535.5638679351345,132.07321530993053)" id="Dunkin'">
+        <path id="p_711.4137710200447" d="M-8.04164708413529e-15,43.776687774979685A43.776687774979685,43.776687774979685,0,1,1,8.04164708413529e-15,-43.776687774979685A43.776687774979685,43.776687774979685,0,1,1,-8.04164708413529e-15,43.776687774979685Z" fill="#d62728" stroke="none"/>
+      </g>
+      <g transform="translate(589.7457584888524,132.07321530993053)" id="Krispy Kreme">
+        <path id="p_730.3491815890224" d="M-1.566973749956773e-15,8.530207790239391A8.530207790239391,8.530207790239391,0,1,1,1.566973749956773e-15,-8.530207790239391A8.530207790239391,8.530207790239391,0,1,1,-1.566973749956773e-15,8.530207790239391Z" fill="#d62728" stroke="none"/>
+      </g>
+      <g transform="translate(533.1905102460296,424.2026990966295)" id="Dairy Queen">
+        <path id="p_986.9733107644231" d="M-5.4337764786926086e-15,29.58010142176403A29.58010142176403,29.58010142176403,0,1,1,5.4337764786926086e-15,-29.58010142176403A29.58010142176403,29.58010142176403,0,1,1,-5.4337764786926086e-15,29.58010142176403Z" fill="#2ca02c" stroke="none"/>
+      </g>
+      <g transform="translate(586.3286598911213,424.2026990966295)" id="Baskin-Robbins">
+        <path id="p_1032.2144122225798" d="M-3.983112260966232e-15,21.683053234828908A21.683053234828908,21.683053234828908,0,1,1,3.983112260966232e-15,-21.683053234828908A21.683053234828908,21.683053234828908,0,1,1,-3.983112260966232e-15,21.683053234828908Z" fill="#2ca02c" stroke="none"/>
+      </g>
+    </g>
+    <g id="labels">
+      <g transform="translate(264.686840200266,282.2501677145954)">
+        <text text-anchor="middle" dominant-baseline="text-before-edge" transform="translate(0,-5.6666669845581055)" style="white-space: pre;"><tspan x="0" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">McDonald's</tspan></text>
+      </g>
+      <g transform="translate(356.39354772467453,282.2501677145954)">
+        <text text-anchor="middle" dominant-baseline="text-before-edge" transform="translate(0,-5.6666669845581055)" style="white-space: pre;"><tspan x="0" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Burger King</tspan></text>
+      </g>
+      <g transform="translate(322.4483021461856,348.5636843173635)">
+        <text text-anchor="middle" dominant-baseline="text-before-edge" transform="translate(0,-5.6666669845581055)" style="white-space: pre;"><tspan x="0" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Wendy's</tspan></text>
+      </g>
+      <g transform="translate(321.3148165200045,225.44216744799508)">
+        <text text-anchor="middle" dominant-baseline="text-before-edge" transform="translate(0,-5.6666669845581055)" style="white-space: pre;"><tspan x="0" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Sonic <tspan x="0" dy="1em">​</tspan>Drive-in</tspan></text>
+      </g>
+      <g transform="translate(274.8356814468122,208.55175385253182)">
+        <text text-anchor="middle" dominant-baseline="text-before-edge" transform="matrix(1, 0, 0, 1, -0.850331, -12.469259)" style="white-space: pre;"><tspan x="0" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Jack in <tspan x="0" dy="1em">​</tspan>the Box</tspan></text>
+      </g>
+      <g transform="translate(267.85001959166203,354.28831106165023)">
+        <text text-anchor="middle" dominant-baseline="text-before-edge" transform="matrix(0.603747, 0, 0, 1.050634, -0.212587, -5.950107)" style="white-space: pre;"><tspan x="0" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Hardee's</tspan></text>
+      </g>
+      <g transform="translate(366.79329469742424,226.2267524293447)">
+        <text text-anchor="middle" dominant-baseline="text-before-edge" transform="matrix(1, 0, 0, 1, 0.539715, -11.783253)" style="white-space: pre;"><tspan x="0" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Five <tspan x="0" dy="1em">​</tspan>Guys</tspan></text>
+      </g>
+      <g transform="translate(371.4695510557009,334.80929868328093)">
+        <text text-anchor="middle" dominant-baseline="text-before-edge" transform="matrix(0.5443, 0, 0, 1, 0.539721, -6.026465)" style="white-space: pre;"><tspan x="0" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Carl's Jr.</tspan></text>
+      </g>
+      <g transform="translate(240.220474846499,219.73254849664988)">
+        <text text-anchor="middle" dominant-baseline="text-before-edge" transform="matrix(0.371843, 0, 0, 1.309333, 1.254322, -6.702694)" style="white-space: pre;"><tspan x="0" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Whataburger</tspan></text>
+      </g>
+      <g transform="translate(235.83727019364287,342.788001752619)">
+        <text text-anchor="middle" dominant-baseline="text-before-edge" transform="matrix(0.586394, 0, 0, 0.810126, -0.141725, -5.241502)" style="white-space: pre;"><tspan x="0" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Culver's</tspan></text>
+      </g>
+      <g transform="matrix(0.607464, 0, 0, 1.050633, 320.653811, 187.235933)" style="">
+        <text text-anchor="middle" dominant-baseline="text-before-edge" transform="matrix(0.742109, 0, 0, 0.910776, -25.907152, -9.022097)" style="white-space: pre;"><tspan x="0" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Checkers <tspan x="0" dy="1em">​</tspan> Rally's</tspan></text>
+      </g>
+      <g transform="translate(388.60358446568966,244.42172055579317)">
+        <text text-anchor="middle" dominant-baseline="text-before-edge" transform="matrix(0.230189, 0, 0, 0.274191, -0.19744, -7.797369)" style="white-space: pre;"><tspan x="0" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Freddy's <tspan x="0" dy="1em">​</tspan>Frozen <tspan x="0" dy="1em">​</tspan>Custard <tspan x="0" dy="1em">​</tspan>&amp; <tspan x="0" dy="1em">​</tspan>Steakburgers</tspan></text>
+      </g>
+      <g transform="translate(286.98679387302445,376.4304749089349)">
+        <text text-anchor="middle" dominant-baseline="text-before-edge" transform="matrix(0.382587, 0, 0, 0.497407, 0.929619, -4.190885)" style="white-space: pre;"><tspan x="0" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">In-N-Out <tspan x="0" dy="1em">​</tspan>Burger</tspan></text>
+      </g>
+      <g transform="translate(351.3153513716158,203.9781217096995)">
+        <text text-anchor="middle" dominant-baseline="text-before-edge" transform="matrix(0.464101, 0, 0, 0.578768, 0.389852, -5.950102)" style="white-space: pre;"><tspan x="0" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">White <tspan x="0" dy="1em">​</tspan>Castle</tspan></text>
+      </g>
+      <g transform="translate(387.4440809509391,317.60856335780414)">
+        <text text-anchor="middle" dominant-baseline="text-before-edge" transform="matrix(0.350682, 0, 0, 0.501005, -0.313507, -5.366362)" style="white-space: pre;"><tspan x="0" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Shake<tspan x="0" dy="1em">​</tspan> Shack</tspan></text>
+      </g>
+      <g transform="translate(477.6847768794091,284.81018061353404)">
+        <text text-anchor="middle" dominant-baseline="text-before-edge" transform="translate(0,-5.6666669845581055)" style="white-space: pre;"><tspan x="0" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Subway</tspan></text>
+      </g>
+      <g transform="translate(570.4413789740922,284.81018061353404)">
+        <text text-anchor="middle" dominant-baseline="text-before-edge" transform="translate(0,-5.6666669845581055)" style="white-space: pre;"><tspan x="0" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Arby's</tspan></text>
+      </g>
+      <g transform="translate(553.402819007421,333.5027790017832)">
+        <text text-anchor="middle" dominant-baseline="text-before-edge" transform="matrix(1, 0, 0, 1, 0.781953, -10.619118)" style="white-space: pre;"><tspan x="0" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Jimmy <tspan x="0" dy="1em">​</tspan>John's</tspan></text>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 552.765, 237.987)">
+        <text text-anchor="middle" dominant-baseline="text-before-edge" transform="matrix(1, 0, 0, 1, 2.085267, -11.922387)" style="white-space: pre;"><tspan x="0" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Jersey <tspan x="0" dy="1em">​</tspan>Mike's</tspan></text>
+      </g>
+      <g transform="translate(519.5468811144065,208.08298274568756)">
+        <text text-anchor="middle" dominant-baseline="text-before-edge" transform="matrix(1, 0, 0, 1, 2.345894, -11.140421)" style="white-space: pre;"><tspan x="0" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Panera <tspan x="0" dy="1em">​</tspan>Bread</tspan></text>
+      </g>
+      <g transform="translate(519.0688237335212,355.6007531425803)">
+        <text text-anchor="middle" dominant-baseline="text-before-edge" transform="matrix(0.494804, 0, 0, 0.754193, 1.303296, -6.448602)" style="white-space: pre;"><tspan x="0" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Firehouse <tspan x="0" dy="1em">​</tspan>Subs</tspan></text>
+      </g>
+      <g transform="translate(486.3839515754198,208.35140676819714)">
+        <text text-anchor="middle" dominant-baseline="text-before-edge" style="white-space: pre;" x="-4.952" y="5.541" transform="matrix(0.401301, 0, 0, 0.667819, 3.290969, -10.931475)"><tspan x="-4.952" y="5.541" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold; word-spacing: 0px;">McAlister's <tspan x="-4.952000141143799" dy="1em">​</tspan>Deli</tspan></text>
+      </g>
+      <g transform="translate(377.74977630483164,438.44135320885766)">
+        <text text-anchor="middle" dominant-baseline="text-before-edge" transform="translate(0,-5.6666669845581055)" style="white-space: pre;"><tspan x="0" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Pizza Hut</tspan></text>
+      </g>
+      <g transform="translate(452.4322939819779,438.44135320885766)">
+        <text text-anchor="middle" dominant-baseline="text-before-edge" transform="translate(0,-5.6666669845581055)" style="white-space: pre;"><tspan x="0" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Domino's</tspan></text>
+      </g>
+      <g transform="translate(415.2004058780032,494.36049225532304)">
+        <text text-anchor="middle" dominant-baseline="text-before-edge" transform="translate(0,-5.6666669845581055)" style="white-space: pre;"><tspan x="0" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Little <tspan x="0" dy="1em">​</tspan>Caesars</tspan></text>
+      </g>
+      <g transform="translate(415.1939983111756,387.32678411261577)">
+        <text text-anchor="middle" dominant-baseline="text-before-edge" style="white-space: pre;" x="3.405" y="6.818" transform="matrix(1, 0, 0, 1, -3.080635, -17.348692)"><tspan x="3.405" y="6.818" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold; word-spacing: 0px;">Papa <tspan x="3.4049999713897705" dy="1em">​</tspan>Johns</tspan></text>
+      </g>
+      <g transform="translate(373.01388775442365,384.96253348829674)">
+        <text text-anchor="middle" dominant-baseline="text-before-edge" transform="matrix(0.661336, 0, 0, 0.84695, 0.648546, -9.720095)" style="white-space: pre;"><tspan x="0" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Papa <tspan x="0" dy="1em">​</tspan>Murphy's</tspan></text>
+      </g>
+      <g transform="translate(457.2436586343635,385.2365663940846)">
+        <text text-anchor="middle" dominant-baseline="text-before-edge" transform="matrix(0.656891, 0, 0, 0.862255, 0.891749, -8.260859)" style="white-space: pre;"><tspan x="0" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Marco's <tspan x="0" dy="1em">​</tspan>Pizza</tspan></text>
+      </g>
+      <g transform="translate(398.51520425799043,135.5745670746578)">
+        <text text-anchor="middle" dominant-baseline="text-before-edge" transform="translate(0,-5.6666669845581055)" style="white-space: pre;"><tspan x="0" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Starbucks</tspan></text>
+      </g>
+      <g transform="translate(471.50928512670964,135.5745670746578)">
+        <text text-anchor="middle" dominant-baseline="text-before-edge" style="white-space: pre;" x="7.482" y="-87.3" transform="matrix(0.501183, 0, 0, 0.594221, -4.331434, 43.049885)"><tspan x="7.482" y="-87.3" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold; word-spacing: 0px;">Tropical <tspan x="7.48199987411499" dy="1em">​</tspan>Smoothie <tspan x="7.48199987411499" dy="1em">​</tspan>Café</tspan></text>
+      </g>
+      <g transform="translate(462.80378006525115,161.93973482357018)">
+        <text text-anchor="middle" dominant-baseline="text-before-edge" transform="matrix(0.518503, 0, 0, 0.646079, 0.083155, -6.497955)" style="white-space: pre;"><tspan x="0" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Tim <tspan x="0" dy="1em">​</tspan>Hortons</tspan></text>
+      </g>
+      <g transform="translate(247.11528076292464,102.02248057705219)">
+        <text text-anchor="middle" dominant-baseline="text-before-edge" transform="translate(0,-5.6666669845581055)" style="white-space: pre;"><tspan x="0" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">KFC</tspan></text>
+      </g>
+      <g transform="translate(301.3987974317863,102.02248057705219)">
+        <text text-anchor="middle" dominant-baseline="text-before-edge" transform="matrix(0.715775, 0, 0, 1, -0.358103, -6.941883)" style="white-space: pre;"><tspan x="0" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Chick-Fil-A</tspan></text>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 279.791933, 146.612565)">
+        <text text-anchor="middle" dominant-baseline="text-before-edge" transform="matrix(1, 0, 0, 1, -0.25796, -16.372395)" style="white-space: pre;"><tspan x="0" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Popeyes <tspan x="0" dy="1em">​</tspan>Louisiana <tspan x="0" dy="1em">​</tspan>Kitchen</tspan></text>
+      </g>
+      <g transform="translate(277.8271801208648,64.07767902891402)">
+        <text text-anchor="middle" dominant-baseline="text-before-edge" transform="matrix(0.539993, 0, 0, 0.924051, -0.741186, -5.524937)" style="white-space: pre;"><tspan x="0" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Wingstop</tspan></text>
+      </g>
+      <g transform="translate(244.16353446103034,58.36372306877963)">
+        <text text-anchor="middle" dominant-baseline="text-before-edge" style="white-space: pre;" transform="matrix(0.469135, 0, 0, 0.696202, -1.558922, -3.8243)"><tspan x="0" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Zaxby's</tspan></text>
+      </g>
+      <g transform="translate(239.05735983409286,144.65153610684325)">
+        <text text-anchor="middle" dominant-baseline="text-before-edge" style="white-space: pre;" x="-56.633" y="12.701" transform="matrix(0.410281, 0, 0, 0.657552, 23.162243, -15.901163)"><tspan x="-56.633" y="12.701" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold; word-spacing: 0px;">Church's <tspan x="-56.632999420166016" dy="1em">​</tspan>Chicken</tspan></text>
+      </g>
+      <g transform="translate(310.9550817268352,64.62447497521636)">
+        <text text-anchor="middle" dominant-baseline="text-before-edge" style="white-space: pre;" x="49.461" y="-17.429" transform="matrix(0.392058, 0, 0, 0.898734, -18.328171, 9.289259)"><tspan x="49.461" y="-17.429" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold; word-spacing: 0px;">Bojangles</tspan></text>
+      </g>
+      <g transform="translate(314.50862045779036,137.11676011553902)">
+        <text text-anchor="middle" dominant-baseline="text-before-edge" style="white-space: pre;" x="14.962" y="-5.151" transform="matrix(0.456109, 0, 0, 0.57194, -5.534659, -3.881737)"><tspan x="14.962" y="-5.151" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold; word-spacing: 0px;">Raising <tspan x="14.961999893188477" dy="1em">​</tspan>Cane's</tspan></text>
+      </g>
+      <g transform="translate(234.64919454251103,452.43743760348116)">
+        <text text-anchor="middle" dominant-baseline="text-before-edge" transform="translate(0,-5.6666669845581055)" style="white-space: pre;"><tspan x="0" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Taco Bell</tspan></text>
+      </g>
+      <g transform="translate(300.85642864366093,452.43743760348116)">
+        <text text-anchor="middle" dominant-baseline="text-before-edge" transform="translate(0,-5.6666669845581055)" style="white-space: pre;"><tspan x="0" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Chipotle</tspan></text>
+      </g>
+      <g transform="translate(277.8606157664009,484.05466846568555)">
+        <text text-anchor="middle" dominant-baseline="text-before-edge" transform="matrix(0.605697, 0, 0, 0.869565, -0.243196, -4.207432)" style="white-space: pre;"><tspan x="0" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Qdoba</tspan></text>
+      </g>
+      <g transform="translate(277.74561485720466,421.55996326789995)">
+        <text text-anchor="middle" dominant-baseline="text-before-edge" transform="matrix(0.69242, 0, 0, 0.73913, -0.891759, -4.045289)" style="white-space: pre;"><tspan x="0" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Moe's</tspan></text>
+      </g>
+      <g transform="translate(258.67201345195826,406.113140263126)">
+        <text text-anchor="middle" dominant-baseline="text-before-edge" transform="matrix(0.512107, 0, 0, 0.579112, 0.143568, -10.287908)" style="white-space: pre; transform-box: fill-box; transform-origin: 47.2273% 50%;"><tspan x="0" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Del <tspan x="0" dy="1em">​</tspan>Taco</tspan></text>
+      </g>
+      <g transform="translate(258.16886190405074,497.8922376775552)">
+        <text text-anchor="middle" dominant-baseline="text-before-edge" transform="matrix(0.651084, 0, 0, 0.580899, 0, -8.753338)" style="white-space: pre;"><tspan x="0" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">El <tspan x="0" dy="1em">​</tspan>Pollo <tspan x="0" dy="1em">​</tspan>Loco</tspan></text>
+      </g>
+      <g transform="translate(535.5638679351345,132.07321530993053)">
+        <text text-anchor="middle" dominant-baseline="text-before-edge" transform="translate(0,-5.6666669845581055)" style="white-space: pre;"><tspan x="0" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Dunkin'</tspan></text>
+      </g>
+      <g transform="translate(589.7457584888524,132.07321530993053)">
+        <text text-anchor="middle" dominant-baseline="text-before-edge" transform="matrix(0.39183, 0, 0, 0.614619, -0.665022, -6.664218)" style="white-space: pre;"><tspan x="0" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Krispy <tspan x="0" dy="1em">​</tspan>Kreme</tspan></text>
+      </g>
+      <g transform="translate(533.1905102460296,424.2026990966295)">
+        <text text-anchor="middle" dominant-baseline="text-before-edge" transform="matrix(1, 0, 0, 1, 0.521254, -12.183392)" style="white-space: pre;"><tspan x="0" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Dairy <tspan x="0" dy="1em">​</tspan>Queen</tspan></text>
+      </g>
+      <g transform="translate(586.3286598911213,424.2026990966295)">
+        <text text-anchor="middle" dominant-baseline="text-before-edge" transform="matrix(0.765353, 0, 0, 0.864807, 0.260663, -9.57652)" style="white-space: pre;"><tspan x="0" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Baskin<tspan x="0" dy="1em">​</tspan>Robbins</tspan></text>
+      </g>
+    </g>
+  </g>
+  <g id="legend" transform="matrix(0.373497, 0, 0, 0.368189, 410.419284, 179.535737)" style="">
+    <g transform="translate(5,0)">
+      <g class="legendSize" transform="translate(0,0)">
+        <g class="legendCells" transform="translate(50,16)">
+          <g class="cell" transform="translate(0, 25)">
+            <circle class="swatch" r="25" fill="none" style="stroke: rgb(0, 0, 0);" cx="18.254" cy="-25.307"/>
+            <text class="label" font-family="&quot;Arial&quot;, sans-serif" font-size="10px" style="white-space: pre;" x="73.254" y="-20.307"><tspan x="73.254" dy="0em" style="font-size: 10px; word-spacing: 0px;">&gt; 3000</tspan></text>
+          </g>
+          <g class="cell" transform="translate(0, 125)">
+            <circle class="swatch" r="50" fill="none" style="stroke: rgb(0, 0, 0);" cx="18.254" cy="-25.307"/>
+            <text class="label" font-family="&quot;Arial&quot;, sans-serif" font-size="10px" style="white-space: pre;" x="73.254" y="-20.307"><tspan x="73.254" dy="0em" style="font-size: 10px; word-spacing: 0px;">&gt; 12500</tspan></text>
+          </g>
+        </g>
+        <text class="legendTitle" font-family="&quot;Arial&quot;, sans-serif" font-size="12px" font-weight="bold" style="white-space: pre;" x="24.931" y="-28.71"><tspan x="24.931" dy="0em" style="font-size: 12px; word-spacing: 0px;">Nº de botigues a USA</tspan></text>
+      </g>
+      <g class="legendColor" transform="translate(0,223.6666717529297)">
+        <g class="legendCells" transform="matrix(1, 0, 0, 1, 0, 16)">
+          <g class="cell" transform="translate(0, 0)">
+            <g>
+              <rect class="swatch" height="17.369" width="17.631" style="fill: rgb(31, 119, 180);" x="25.043" y="-5.805"/>
+              <text class="label" font-family="&quot;Arial&quot;, sans-serif" font-size="10px" style="white-space: pre;" transform="matrix(1.175403, 0, 0, 1.157929, 48.551163, 8.669246)"><tspan x="0" dy="0em">Burguers</tspan></text>
+              <rect class="swatch" height="17.369" width="17.631" style="fill: rgb(255, 127, 14);" x="25.043" y="18.512"/>
+              <text class="label" font-family="&quot;Arial&quot;, sans-serif" font-size="10px" style="white-space: pre;" transform="matrix(1.175403, 0, 0, 1.157929, 48.551163, 32.985733)"><tspan x="0" dy="0em">Pollastre</tspan></text>
+              <rect class="swatch" height="17.369" width="17.631" style="fill: rgb(44, 160, 44);" x="25.043" y="42.828"/>
+              <text class="label" font-family="&quot;Arial&quot;, sans-serif" font-size="10px" style="white-space: pre;" transform="matrix(1.175403, 0, 0, 1.157929, 48.551164, 57.302229)"><tspan x="0" dy="0em">Postres</tspan></text>
+              <rect class="swatch" height="17.369" width="17.631" style="fill: rgb(214, 39, 40);" x="25.043" y="67.145"/>
+              <text class="label" font-family="&quot;Arial&quot;, sans-serif" font-size="10px" style="white-space: pre;" transform="matrix(1.175403, 0, 0, 1.157929, 48.551163, 81.618722)"><tspan x="0" dy="0em">Donuts</tspan></text>
+              <rect class="swatch" height="17.369" width="17.631" style="fill: rgb(148, 103, 189);" x="25.043" y="91.461"/>
+              <text class="label" font-family="&quot;Arial&quot;, sans-serif" font-size="10px" style="white-space: pre;" transform="matrix(1.175403, 0, 0, 1.157929, 48.551163, 105.935212)"><tspan x="0" dy="0em">Begudes</tspan></text>
+              <rect class="swatch" height="17.369" width="17.631" style="fill: rgb(140, 86, 75);" x="25.043" y="115.778"/>
+              <text class="label" font-family="&quot;Arial&quot;, sans-serif" font-size="10px" style="white-space: pre;" transform="matrix(1.175403, 0, 0, 1.157929, 48.551163, 130.25171)"><tspan x="0" dy="0em">Pizza</tspan></text>
+              <rect class="swatch" height="17.369" width="17.631" style="fill: rgb(227, 119, 194);" x="25.043" y="140.094"/>
+              <text class="label" font-family="&quot;Arial&quot;, sans-serif" font-size="10px" style="white-space: pre;" transform="matrix(1.175403, 0, 0, 1.157929, 48.551163, 154.568193)"><tspan x="0" dy="0em">Sandvitx</tspan></text>
+              <rect class="swatch" height="17.369" width="17.631" style="fill: rgb(127, 127, 127);" x="25.043" y="164.411"/>
+              <text class="label" font-family="&quot;Arial&quot;, sans-serif" font-size="10px" style="white-space: pre;" transform="matrix(1.175403, 0, 0, 1.157929, 48.551163, 178.884691)"><tspan x="0" dy="0em">Tex-Mex</tspan></text>
+              <text class="legendTitle" font-family="&quot;Arial&quot;, sans-serif" font-size="12px" font-weight="bold" style="white-space: pre;" transform="matrix(1.175403, 0, 0, 1.157929, 25.043089, -24.331711)"><tspan x="0" dy="0em">Categoria</tspan></text>
+            </g>
+          </g>
+          <g class="cell" transform="translate(0, 21)"/>
+          <g class="cell" transform="translate(0, 42)"/>
+          <g class="cell" transform="translate(0, 63)"/>
+          <g class="cell" transform="translate(0, 84)"/>
+          <g class="cell" transform="translate(0, 105)"/>
+          <g class="cell" transform="translate(0, 126)"/>
+          <g class="cell" transform="translate(0, 147)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 13px; white-space: pre;" x="75.335" y="132.771">Els gegants del menjar ràpid als EUA</text>
+  <g transform="matrix(0.1, 0, 0, -0.1, 601.605107, 1635.786511)" fill="#000000" stroke="none">
+    <path d="M -5245.677 14703.634 C -5248.303 14700.469 -5248.422 14699.75 -5252.359 14622.921 C -5254.029 14591.702 -5256.653 14541.202 -5258.324 14510.701 C -5259.875 14480.202 -5261.784 14439.485 -5262.5 14420.063 C -5263.215 14400.64 -5264.289 14375.75 -5264.886 14364.671 C -5265.602 14353.594 -5267.153 14322.805 -5268.466 14296.333 C -5269.778 14269.86 -5271.209 14242.237 -5271.686 14234.899 C -5272.044 14226.698 -5271.805 14217.49 -5270.97 14210.584 C -5269.182 14197.635 -5262.5 14171.451 -5257.608 14158.503 C -5252.239 14144.259 -5228.139 14102.537 -5211.914 14079.805 C -5196.404 14058.08 -5189.723 14043.981 -5184.711 14022.255 C -5182.206 14011.465 -5181.968 14008.156 -5182.087 13967.585 C -5182.206 13923.128 -5182.922 13896.224 -5187.933 13759.689 C -5189.603 13715.808 -5191.392 13664.59 -5192.108 13646.03 C -5192.824 13627.47 -5194.137 13591.214 -5195.091 13565.462 C -5196.046 13539.708 -5197.359 13496.116 -5198.073 13468.349 C -5199.267 13418.137 -5200.102 13394.398 -5203.443 13304.334 C -5207.261 13203.479 -5212.271 13057.017 -5212.987 13029.538 C -5213.345 13013.712 -5214.18 12991.412 -5214.896 12980.046 C -5216.805 12946.668 -5213.703 12925.088 -5203.801 12901.78 C -5197.001 12885.954 -5190.2 12877.465 -5179.224 12870.99 C -5170.633 12865.812 -5169.559 12865.524 -5158.822 12865.669 C -5145.579 12865.669 -5139.495 12868.258 -5129.95 12877.897 C -5117.304 12890.558 -5105.969 12918.47 -5102.151 12946.092 C -5101.435 12951.703 -5104.895 13079.174 -5108.594 13180.604 C -5111.457 13257.576 -5115.752 13402.886 -5116.946 13457.557 C -5117.662 13490.361 -5119.211 13551.65 -5120.524 13593.517 C -5121.717 13635.528 -5123.388 13691.781 -5124.104 13718.685 C -5124.82 13745.59 -5126.131 13790.334 -5127.086 13817.957 C -5128.04 13845.725 -5129.711 13900.397 -5130.785 13939.53 L -5132.812 14010.746 L -5129.83 14025.278 C -5126.012 14043.549 -5118.853 14060.814 -5108.355 14077.647 C -5091.651 14104.406 -5063.137 14155.338 -5059.201 14165.553 C -5053.593 14179.795 -5049.417 14197.923 -5047.747 14215.189 C -5046.434 14227.561 -5046.553 14233.316 -5048.821 14259.645 C -5050.133 14276.334 -5051.804 14300.505 -5052.519 14313.597 C -5053.235 14326.689 -5054.309 14347.407 -5055.025 14359.636 C -5056.337 14385.533 -5064.808 14504.515 -5067.432 14535.16 C -5068.387 14546.67 -5069.699 14568.682 -5070.415 14584.076 C -5072.086 14624.361 -5076.858 14696.872 -5078.17 14700.9 C -5079.244 14704.065 -5085.09 14706.799 -5088.312 14705.648 C -5089.623 14705.074 -5091.532 14703.346 -5092.367 14701.62 C -5094.157 14698.167 -5094.277 14694.282 -5097.259 14529.405 C -5100.481 14344.674 -5100.242 14353.881 -5102.748 14350.86 C -5105.253 14347.839 -5110.265 14347.407 -5115.036 14349.565 C -5117.184 14350.429 -5118.138 14352.298 -5118.615 14355.607 C -5118.973 14358.197 -5119.808 14389.13 -5120.524 14424.378 C -5121.837 14489.264 -5123.149 14550.411 -5125.296 14646.661 L -5126.489 14699.894 L -5129.592 14703.202 C -5133.29 14707.086 -5137.227 14707.231 -5140.925 14703.634 C -5143.551 14701.045 -5143.789 14699.75 -5144.625 14675.291 C -5145.699 14641.194 -5147.606 14552.137 -5149.277 14458.908 C -5149.874 14417.329 -5150.828 14375.894 -5151.305 14366.83 L -5152.141 14350.429 L -5155.958 14349.134 C -5160.612 14347.407 -5165.384 14348.702 -5166.338 14351.867 C -5167.174 14354.6 -5168.606 14392.007 -5171.827 14494.875 C -5173.138 14537.175 -5174.69 14588.393 -5175.406 14608.535 C -5176.001 14628.676 -5176.837 14657.452 -5177.314 14672.414 C -5178.03 14698.455 -5178.15 14699.75 -5180.894 14703.059 C -5184.472 14707.375 -5191.154 14707.52 -5194.495 14703.491 C -5196.881 14700.613 -5196.881 14698.742 -5196.881 14528.111 C -5196.881 14364.528 -5197.001 14355.463 -5199.028 14352.443 C -5201.653 14348.557 -5210.721 14346.974 -5215.851 14349.565 C -5220.742 14352.011 -5221.577 14356.327 -5222.412 14381.935 C -5222.89 14393.878 -5223.964 14427.112 -5224.918 14456.03 C -5229.213 14583.645 -5230.287 14619.037 -5230.287 14636.59 C -5230.287 14646.949 -5230.645 14665.652 -5231.122 14678.169 C -5231.719 14697.736 -5232.196 14701.476 -5234.104 14703.779 C -5236.848 14707.086 -5242.814 14707.086 -5245.677 14703.634 Z" style=""/>
+    <path d="M -2319.95 14694.322 C -2335.341 14685.689 -2351.328 14660.223 -2364.69 14623.105 C -2376.024 14591.597 -2389.863 14532.034 -2396.664 14486.426 C -2399.289 14468.587 -2402.749 14445.567 -2404.3 14435.208 C -2412.532 14381.399 -2414.68 14349.028 -2419.213 14205.732 C -2419.929 14183.864 -2420.645 14130.343 -2420.765 14087.037 C -2420.883 14011.648 -2420.765 14006.038 -2417.663 13964.89 C -2411.577 13884.752 -2411.1 13881.3 -2395.949 13792.819 C -2382.705 13715.416 -2380.916 13702.036 -2376.382 13641.178 C -2371.849 13580.752 -2371.729 13515.721 -2376.143 13419.615 C -2377.456 13391.128 -2378.768 13357.462 -2379.246 13344.802 C -2380.916 13290.561 -2382.466 13256.463 -2385.808 13200.929 C -2394.875 13047.273 -2399.528 12956.633 -2399.528 12931.889 C -2399.528 12912.321 -2397.022 12904.696 -2387.716 12893.905 C -2375.069 12879.662 -2358.129 12872.613 -2332.715 12871.173 C -2302.053 12869.447 -2281.294 12876.21 -2266.977 12892.467 C -2259.222 12901.388 -2255.643 12911.17 -2254.808 12924.694 C -2254.331 12934.333 -2256.24 12966.417 -2259.938 13009.579 C -2260.893 13020.657 -2262.563 13041.086 -2263.517 13054.899 C -2264.591 13068.71 -2266.738 13094.319 -2268.29 13111.729 C -2269.961 13129.137 -2272.108 13159.207 -2273.061 13178.629 C -2274.016 13198.052 -2276.761 13240.781 -2279.028 13273.585 C -2289.884 13430.117 -2292.032 13488.242 -2291.197 13603.771 C -2290.481 13702.467 -2289.407 13734.982 -2284.993 13791.525 C -2283.323 13812.529 -2281.771 13833.823 -2281.413 13839.002 C -2280.101 13858.712 -2274.851 14000.714 -2273.658 14049.199 C -2272.942 14077.254 -2271.273 14126.314 -2269.961 14158.398 C -2266.977 14230.478 -2265.784 14279.826 -2264.115 14398.664 C -2262.086 14544.119 -2262.086 14616.055 -2263.876 14629.579 C -2267.693 14656.915 -2273.3 14676.625 -2279.863 14685.689 C -2288.691 14697.774 -2306.826 14701.803 -2319.95 14694.322 Z" style="stroke-width: 0px;"/>
+  </g>
+  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 4px; white-space: pre;" x="305.381" y="409.336">SOURCE: [https://www.visualcapitalist.com/cp/popular-us-fast-food-chains-2022/#google_vignette]</text>
+</svg>

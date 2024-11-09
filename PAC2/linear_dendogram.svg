@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <bx:export>
+      <bx:file format="svg" href="#background" path="Sin título.svg"/>
+    </bx:export>
+  </defs>
+  <g transform="matrix(0.33021, 0, 0, 0.39161, 33.09145, 89.891953)" style="">
+    <rect width="1535.403" height="984.152" x="-105.905" y="-221.848" id="background" style="vector-effect: non-scaling-stroke; stroke-width: 6px;" fill="#fcf8f5"/>
+    <g transform="matrix(1, 0, 0, 1, 1.080471, -131.104844)" id="viz">
+      <g id="links">
+        <path d="M207.5,614.3389910311117C311.25,614.3389910311117,311.25,261.374360696497,415,261.374360696497" fill="none" style="stroke: rgb(213, 23, 23);"/>
+        <path d="M207.5,614.3389910311117C311.25,614.3389910311117,311.25,497.9886575220961,415,497.9886575220961" fill="none" style="stroke: rgb(179, 204, 51);"/>
+        <path d="M207.5,614.3389910311117C311.25,614.3389910311117,311.25,547.9300974069341,415,547.9300974069341" fill="none" style="stroke: rgb(64, 118, 245);"/>
+        <path d="M207.5,614.3389910311117C311.25,614.3389910311117,311.25,586.2009508267881,415,586.2009508267881" fill="none" style="stroke: rgb(255, 155, 33);"/>
+        <path d="M207.5,614.3389910311117C311.25,614.3389910311117,311.25,616.5499995667816,415,616.5499995667816" fill="none" style="stroke: rgb(127, 127, 127);"/>
+        <path d="M207.5,614.3389910311117C311.25,614.3389910311117,311.25,653.7831555899927,415,653.7831555899927" fill="none" style="stroke: rgb(44, 160, 44);"/>
+        <path d="M207.5,614.3389910311117C311.25,614.3389910311117,311.25,685.247109089119,415,685.247109089119" fill="none" style="stroke: rgb(80, 227, 194);"/>
+        <path d="M207.5,614.3389910311117C311.25,614.3389910311117,311.25,702.9997589108767,415,702.9997589108767" fill="none" style="stroke: rgb(148, 103, 189);"/>
+        <path d="M207.5,614.3389910311117C311.25,614.3389910311117,311.25,720.6687247611861,415,720.6687247611861" fill="none" style="stroke: rgb(140, 86, 75);"/>
+        <path d="M207.5,614.3389910311117C311.25,614.3389910311117,311.25,736.2492527568668,415,736.2492527568668" fill="none" style="stroke: rgb(227, 119, 194);"/>
+        <path d="M207.5,614.3389910311117C311.25,614.3389910311117,311.25,748.7368342150911,415,748.7368342150911" fill="none" stroke="#ccc"/>
+        <path d="M415,261.374360696497C518.75,261.374360696497,518.75,113.46600595460356,622.5,113.46600595460356" fill="none" style="stroke: rgb(213, 23, 23);"/>
+        <path d="M415,261.374360696497C518.75,261.374360696497,518.75,229.23819314592384,622.5,229.23819314592384" fill="none" style="stroke: rgb(213, 23, 23);"/>
+        <path d="M415,261.374360696497C518.75,261.374360696497,518.75,314.5969357646498,622.5,314.5969357646498" fill="none" style="stroke: rgb(213, 23, 23);"/>
+        <path d="M415,261.374360696497C518.75,261.374360696497,518.75,388.1963079208108,622.5,388.1963079208108" fill="none" style="stroke: rgb(213, 23, 23);"/>
+        <path d="M415,497.9886575220961C518.75,497.9886575220961,518.75,475.13959595361695,622.5,475.13959595361695" fill="none" style="stroke: rgb(179, 204, 51);"/>
+        <path d="M415,497.9886575220961C518.75,497.9886575220961,518.75,520.8377190905753,622.5,520.8377190905753" fill="none" style="stroke: rgb(179, 204, 51);"/>
+        <path d="M415,547.9300974069341C518.75,547.9300974069341,518.75,535.2012332461372,622.5,535.2012332461372" fill="none" style="stroke: rgb(64, 118, 245);"/>
+        <path d="M415,547.9300974069341C518.75,547.9300974069341,518.75,548.7015977251255,622.5,548.7015977251255" fill="none" style="stroke: rgb(64, 118, 245);"/>
+        <path d="M415,547.9300974069341C518.75,547.9300974069341,518.75,559.8874612495396,622.5,559.8874612495396" fill="none" style="stroke: rgb(64, 118, 245);"/>
+        <path d="M415,586.2009508267881C518.75,586.2009508267881,518.75,573.246669779664,622.5,573.246669779664" fill="none" style="stroke: rgb(255, 155, 33);"/>
+        <path d="M415,586.2009508267881C518.75,586.2009508267881,518.75,587.1009860263632,622.5,587.1009860263632" fill="none" style="stroke: rgb(255, 155, 33);"/>
+        <path d="M415,586.2009508267881C518.75,586.2009508267881,518.75,598.255196674337,622.5,598.255196674337" fill="none" style="stroke: rgb(255, 155, 33);"/>
+        <path d="M415,616.5499995667816C518.75,616.5499995667816,518.75,610.2544762872437,622.5,610.2544762872437" fill="none" style="stroke: rgb(127, 127, 127);"/>
+        <path d="M415,616.5499995667816C518.75,616.5499995667816,518.75,622.8455228463193,622.5,622.8455228463193" fill="none" style="stroke: rgb(127, 127, 127);"/>
+        <path d="M415,653.7831555899927C518.75,653.7831555899927,518.75,653.7831555899927,622.5,653.7831555899927" fill="none" style="stroke: rgb(44, 160, 44);"/>
+        <path d="M415,685.247109089119C518.75,685.247109089119,518.75,685.247109089119,622.5,685.247109089119" fill="none" style="stroke: rgb(80, 227, 194);"/>
+        <path d="M415,702.9997589108767C518.75,702.9997589108767,518.75,702.9997589108767,622.5,702.9997589108767" fill="none" style="stroke: rgb(148, 103, 189);"/>
+        <path d="M415,720.6687247611861C518.75,720.6687247611861,518.75,720.6687247611861,622.5,720.6687247611861" fill="none" style="stroke: rgb(140, 86, 75);"/>
+        <path d="M415,736.2492527568668C518.75,736.2492527568668,518.75,736.2492527568668,622.5,736.2492527568668" fill="none" style="stroke: rgb(227, 119, 194);"/>
+        <path d="M415,748.7368342150911C518.75,748.7368342150911,518.75,748.7368342150911,622.5,748.7368342150911" fill="none" stroke="#ccc"/>
+        <path d="M622.5,113.46600595460356C726.25,113.46600595460356,726.25,11.263165784908805,830,11.263165784908805" fill="none" style="stroke: rgb(213, 23, 23);"/>
+        <path d="M622.5,113.46600595460356C726.25,113.46600595460356,726.25,41.300125391388846,830,41.300125391388846" fill="none" style="stroke: rgb(213, 23, 23);"/>
+        <path d="M622.5,113.46600595460356C726.25,113.46600595460356,726.25,62.46291801089727,830,62.46291801089727" fill="none" style="stroke: rgb(213, 23, 23);"/>
+        <path d="M622.5,113.46600595460356C726.25,113.46600595460356,726.25,78.61459564024622,830,78.61459564024622" fill="none" style="stroke: rgb(213, 23, 23);"/>
+        <path d="M622.5,113.46600595460356C726.25,113.46600595460356,726.25,93.27779778580594,830,93.27779778580594" fill="none" style="stroke: rgb(213, 23, 23);"/>
+        <path d="M622.5,113.46600595460356C726.25,113.46600595460356,726.25,106.98829018972474,830,106.98829018972474" fill="none" style="stroke: rgb(213, 23, 23);"/>
+        <path d="M622.5,113.46600595460356C726.25,113.46600595460356,726.25,119.87251723724151,830,119.87251723724151" fill="none" style="stroke: rgb(213, 23, 23);"/>
+        <path d="M622.5,113.46600595460356C726.25,113.46600595460356,726.25,132.0447423321043,830,132.0447423321043" fill="none" style="stroke: rgb(213, 23, 23);"/>
+        <path d="M622.5,113.46600595460356C726.25,113.46600595460356,726.25,143.6946508225223,830,143.6946508225223" fill="none" style="stroke: rgb(213, 23, 23);"/>
+        <path d="M622.5,113.46600595460356C726.25,113.46600595460356,726.25,155.10475163700414,830,155.10475163700414" fill="none" style="stroke: rgb(213, 23, 23);"/>
+        <path d="M622.5,113.46600595460356C726.25,113.46600595460356,726.25,166.23203078695465,830,166.23203078695465" fill="none" style="stroke: rgb(213, 23, 23);"/>
+        <path d="M622.5,113.46600595460356C726.25,113.46600595460356,726.25,176.98207711598207,830,176.98207711598207" fill="none" style="stroke: rgb(213, 23, 23);"/>
+        <path d="M622.5,113.46600595460356C726.25,113.46600595460356,726.25,187.2204146750659,830,187.2204146750659" fill="none" style="stroke: rgb(213, 23, 23);"/>
+        <path d="M622.5,229.23819314592384C726.25,229.23819314592384,726.25,214.9968331263069,830,214.9968331263069" fill="none" style="stroke: rgb(213, 23, 23);"/>
+        <path d="M622.5,229.23819314592384C726.25,229.23819314592384,726.25,243.4795531655408,830,243.4795531655408" fill="none" style="stroke: rgb(213, 23, 23);"/>
+        <path d="M622.5,314.5969357646498C726.25,314.5969357646498,726.25,265.74871257153524,830,265.74871257153524" fill="none" style="stroke: rgb(213, 23, 23);"/>
+        <path d="M622.5,314.5969357646498C726.25,314.5969357646498,726.25,295.05117541188343,830,295.05117541188343" fill="none" style="stroke: rgb(213, 23, 23);"/>
+        <path d="M622.5,314.5969357646498C726.25,314.5969357646498,726.25,319.7454183143773,830,319.7454183143773" fill="none" style="stroke: rgb(213, 23, 23);"/>
+        <path d="M622.5,314.5969357646498C726.25,314.5969357646498,726.25,339.43337799662123,830,339.43337799662123" fill="none" style="stroke: rgb(213, 23, 23);"/>
+        <path d="M622.5,314.5969357646498C726.25,314.5969357646498,726.25,353.0059945288319,830,353.0059945288319" fill="none" style="stroke: rgb(213, 23, 23);"/>
+        <path d="M622.5,388.1963079208108C726.25,388.1963079208108,726.25,371.1965599877666,830,371.1965599877666" fill="none" style="stroke: rgb(213, 23, 23);"/>
+        <path d="M622.5,388.1963079208108C726.25,388.1963079208108,726.25,390.2247829945244,830,390.2247829945244" fill="none" style="stroke: rgb(213, 23, 23);"/>
+        <path d="M622.5,388.1963079208108C726.25,388.1963079208108,726.25,403.16758078014124,830,403.16758078014124" fill="none" style="stroke: rgb(213, 23, 23);"/>
+        <path d="M622.5,475.13959595361695C726.25,475.13959595361695,726.25,432.0711572759915,830,432.0711572759915" fill="none" style="stroke: rgb(179, 204, 51);"/>
+        <path d="M622.5,475.13959595361695C726.25,475.13959595361695,726.25,462.9069576251006,830,462.9069576251006" fill="none" style="stroke: rgb(179, 204, 51);"/>
+        <path d="M622.5,475.13959595361695C726.25,475.13959595361695,726.25,479.0919904057115,830,479.0919904057115" fill="none" style="stroke: rgb(179, 204, 51);"/>
+        <path d="M622.5,475.13959595361695C726.25,475.13959595361695,726.25,494.058518896586,830,494.058518896586" fill="none" style="stroke: rgb(179, 204, 51);"/>
+        <path d="M622.5,475.13959595361695C726.25,475.13959595361695,726.25,507.5693555646951,830,507.5693555646951" fill="none" style="stroke: rgb(179, 204, 51);"/>
+        <path d="M622.5,520.8377190905753C726.25,520.8377190905753,726.25,520.8377190905753,830,520.8377190905753" fill="none" style="stroke: rgb(179, 204, 51);"/>
+        <path d="M622.5,535.2012332461372C726.25,535.2012332461372,726.25,535.2012332461372,830,535.2012332461372" fill="none" style="stroke: rgb(64, 118, 245);"/>
+        <path d="M622.5,548.7015977251255C726.25,548.7015977251255,726.25,548.7015977251255,830,548.7015977251255" fill="none" style="stroke: rgb(64, 118, 245);"/>
+        <path d="M622.5,559.8874612495396C726.25,559.8874612495396,726.25,559.8874612495396,830,559.8874612495396" fill="none" style="stroke: rgb(64, 118, 245);"/>
+        <path d="M622.5,573.246669779664C726.25,573.246669779664,726.25,573.246669779664,830,573.246669779664" fill="none" style="stroke: rgb(255, 155, 33);"/>
+        <path d="M622.5,587.1009860263632C726.25,587.1009860263632,726.25,587.1009860263632,830,587.1009860263632" fill="none" style="stroke: rgb(255, 155, 33);"/>
+        <path d="M622.5,598.255196674337C726.25,598.255196674337,726.25,598.255196674337,830,598.255196674337" fill="none" style="stroke: rgb(255, 155, 33);"/>
+        <path d="M622.5,610.2544762872437C726.25,610.2544762872437,726.25,610.2544762872437,830,610.2544762872437" fill="none" style="stroke: rgb(127, 127, 127);"/>
+        <path d="M622.5,622.8455228463193C726.25,622.8455228463193,726.25,622.8455228463193,830,622.8455228463193" fill="none" style="stroke: rgb(127, 127, 127);"/>
+        <path d="M622.5,653.7831555899927C726.25,653.7831555899927,726.25,637.4026885263811,830,637.4026885263811" fill="none" style="stroke: rgb(44, 160, 44);"/>
+        <path d="M622.5,653.7831555899927C726.25,653.7831555899927,726.25,654.2022183873439,830,654.2022183873439" fill="none" style="stroke: rgb(44, 160, 44);"/>
+        <path d="M622.5,653.7831555899927C726.25,653.7831555899927,726.25,669.7445598562531,830,669.7445598562531" fill="none" style="stroke: rgb(44, 160, 44);"/>
+        <path d="M622.5,685.247109089119C726.25,685.247109089119,726.25,685.247109089119,830,685.247109089119" fill="none" style="stroke: rgb(80, 227, 194);"/>
+        <path d="M622.5,702.9997589108767C726.25,702.9997589108767,726.25,702.9997589108767,830,702.9997589108767" fill="none" style="stroke: rgb(148, 103, 189);"/>
+        <path d="M622.5,720.6687247611861C726.25,720.6687247611861,726.25,720.6687247611861,830,720.6687247611861" fill="none" style="stroke: rgb(140, 86, 75);"/>
+        <path d="M622.5,736.2492527568668C726.25,736.2492527568668,726.25,736.2492527568668,830,736.2492527568668" fill="none" style="stroke: rgb(227, 119, 194);"/>
+        <path d="M622.5,748.7368342150911C726.25,748.7368342150911,726.25,748.7368342150911,830,748.7368342150911" fill="none" stroke="#ccc"/>
+      </g>
+      <g id="nodes">
+        <g transform="translate(0,614.3389910311117)">
+          <text text-anchor="end" dominant-baseline="text-before-edge" transform="translate(0,0)" style="stroke-width: 2px; paint-order: stroke; stroke: white; stroke-linecap: round; stroke-linejoin: round; white-space: pre;"><tspan x="-8" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;"/></text>
+        </g>
+        <g id="Llengües del Món" transform="translate(207.5,614.3389910311117)">
+          <circle r="5" style=""/>
+          <text text-anchor="end" dominant-baseline="text-before-edge" transform="translate(0,-5.5)" style="stroke-width: 2px; paint-order: stroke; stroke: white; stroke-linecap: round; stroke-linejoin: round; white-space: pre;"><tspan x="-8" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">Llengües del Món</tspan></text>
+        </g>
+        <g id="Indo-European" transform="translate(415,261.374360696497)">
+          <circle fill="#d62728" r="5"/>
+          <text text-anchor="end" dominant-baseline="text-before-edge" transform="translate(0,-5.5)" style="stroke-width: 2px; paint-order: stroke; stroke: white; stroke-linecap: round; stroke-linejoin: round; white-space: pre;"><tspan x="-8" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">Indo-European</tspan></text>
+        </g>
+        <g id="Sino-Tibetan" transform="translate(415,497.9886575220961)">
+          <circle fill="#bcbd22" r="5"/>
+          <text text-anchor="end" dominant-baseline="text-before-edge" transform="translate(0,-5.5)" style="stroke-width: 2px; paint-order: stroke; stroke: white; stroke-linecap: round; stroke-linejoin: round; white-space: pre;"><tspan x="-8" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">Sino-Tibetan</tspan></text>
+        </g>
+        <g id="Afro-Asiatic" transform="translate(415,547.9300974069341)">
+          <circle fill="#1f77b4" r="5"/>
+          <text text-anchor="end" dominant-baseline="text-before-edge" transform="translate(0,-5.5)" style="stroke-width: 2px; paint-order: stroke; stroke: white; stroke-linecap: round; stroke-linejoin: round; white-space: pre;"><tspan x="-8" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">Afro-Asiatic</tspan></text>
+        </g>
+        <g id="Austronesian" transform="translate(415,586.2009508267881)">
+          <circle fill="#ff7f0e" r="5"/>
+          <text text-anchor="end" dominant-baseline="text-before-edge" transform="translate(0,-5.5)" style="stroke-width: 2px; paint-order: stroke; stroke: white; stroke-linecap: round; stroke-linejoin: round; white-space: pre;"><tspan x="-8" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">Austronesian</tspan></text>
+        </g>
+        <g id="Niger-Congo" transform="translate(415,616.5499995667816)">
+          <circle fill="#7f7f7f" r="5"/>
+          <text text-anchor="end" dominant-baseline="text-before-edge" transform="translate(0,-5.5)" style="stroke-width: 2px; paint-order: stroke; stroke: white; stroke-linecap: round; stroke-linejoin: round; white-space: pre;"><tspan x="-8" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">Niger-Congo</tspan></text>
+        </g>
+        <g id="Dravidian" transform="translate(415,653.7831555899927)">
+          <circle fill="#2ca02c" r="5"/>
+          <text text-anchor="end" dominant-baseline="text-before-edge" transform="translate(0,-5.5)" style="stroke-width: 2px; paint-order: stroke; stroke: white; stroke-linecap: round; stroke-linejoin: round; white-space: pre;"><tspan x="-8" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">Dravidian</tspan></text>
+        </g>
+        <g id="Turkic" transform="translate(415,685.247109089119)">
+          <circle fill="#17becf" r="5"/>
+          <text text-anchor="end" dominant-baseline="text-before-edge" transform="translate(0,-5.5)" style="stroke-width: 2px; paint-order: stroke; stroke: white; stroke-linecap: round; stroke-linejoin: round; white-space: pre;"><tspan x="-8" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">Turkic</tspan></text>
+        </g>
+        <g id="Japanic" transform="translate(415,702.9997589108767)">
+          <circle fill="#9467bd" r="5"/>
+          <text text-anchor="end" dominant-baseline="text-before-edge" transform="translate(0,-5.5)" style="stroke-width: 2px; paint-order: stroke; stroke: white; stroke-linecap: round; stroke-linejoin: round; white-space: pre;"><tspan x="-8" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">Japanic</tspan></text>
+        </g>
+        <g id="Koreanic" transform="translate(415,720.6687247611861)">
+          <circle fill="#8c564b" r="5"/>
+          <text text-anchor="end" dominant-baseline="text-before-edge" transform="translate(0,-5.5)" style="stroke-width: 2px; paint-order: stroke; stroke: white; stroke-linecap: round; stroke-linejoin: round; white-space: pre;"><tspan x="-8" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">Koreanic</tspan></text>
+        </g>
+        <g id="Kra-Dai" transform="translate(415,736.2492527568668)">
+          <circle fill="#e377c2" r="5"/>
+          <text text-anchor="end" dominant-baseline="text-before-edge" transform="translate(0,-5.5)" style="stroke-width: 2px; paint-order: stroke; stroke: white; stroke-linecap: round; stroke-linejoin: round; white-space: pre;"><tspan x="-8" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">Kra-Dai</tspan></text>
+        </g>
+        <g id="Uralic" transform="translate(415,748.7368342150911)">
+          <circle fill="#cccccc" r="5"/>
+          <text text-anchor="end" dominant-baseline="text-before-edge" transform="translate(0,-5.5)" style="stroke-width: 2px; paint-order: stroke; stroke: white; stroke-linecap: round; stroke-linejoin: round; white-space: pre;"><tspan x="-8" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">Uralic</tspan></text>
+        </g>
+        <g id="Indo-Iranian" transform="translate(622.5,113.46600595460356)">
+          <circle fill="#d62728" r="5"/>
+          <text text-anchor="end" dominant-baseline="text-before-edge" transform="translate(0,-5.5)" style="stroke-width: 2px; paint-order: stroke; stroke: white; stroke-linecap: round; stroke-linejoin: round; white-space: pre;"><tspan x="-8" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">Indo-Iranian</tspan></text>
+        </g>
+        <g id="Germanic" transform="translate(622.5,229.23819314592384)">
+          <circle fill="#d62728" r="5"/>
+          <text text-anchor="end" dominant-baseline="text-before-edge" transform="translate(0,-5.5)" style="stroke-width: 2px; paint-order: stroke; stroke: white; stroke-linecap: round; stroke-linejoin: round; white-space: pre;"><tspan x="-8" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">Germanic</tspan></text>
+        </g>
+        <g id="Romance" transform="translate(622.5,314.5969357646498)">
+          <circle fill="#d62728" r="5"/>
+          <text text-anchor="end" dominant-baseline="text-before-edge" transform="translate(0,-5.5)" style="stroke-width: 2px; paint-order: stroke; stroke: white; stroke-linecap: round; stroke-linejoin: round; white-space: pre;"><tspan x="-8" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">Romance</tspan></text>
+        </g>
+        <g id="Slavic" transform="translate(622.5,388.1963079208108)">
+          <circle fill="#d62728" r="5"/>
+          <text text-anchor="end" dominant-baseline="text-before-edge" transform="translate(0,-5.5)" style="stroke-width: 2px; paint-order: stroke; stroke: white; stroke-linecap: round; stroke-linejoin: round; white-space: pre;"><tspan x="-8" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">Slavic</tspan></text>
+        </g>
+        <g id="Chinese" transform="translate(622.5,475.13959595361695)">
+          <circle fill="#bcbd22" r="5"/>
+          <text text-anchor="end" dominant-baseline="text-before-edge" transform="translate(0,-5.5)" style="stroke-width: 2px; paint-order: stroke; stroke: white; stroke-linecap: round; stroke-linejoin: round; white-space: pre;"><tspan x="-8" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">Chinese</tspan></text>
+        </g>
+        <g id="Tibeto-Burman" transform="translate(622.5,520.8377190905753)">
+          <circle fill="#bcbd22" r="5"/>
+          <text text-anchor="end" dominant-baseline="text-before-edge" transform="translate(0,-5.5)" style="stroke-width: 2px; paint-order: stroke; stroke: white; stroke-linecap: round; stroke-linejoin: round; white-space: pre;"><tspan x="-8" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">Tibeto-Burman</tspan></text>
+        </g>
+        <g id="Chadic" transform="translate(622.5,535.2012332461372)">
+          <circle fill="#1f77b4" r="5"/>
+          <text text-anchor="end" dominant-baseline="text-before-edge" transform="translate(0,-5.5)" style="stroke-width: 2px; paint-order: stroke; stroke: white; stroke-linecap: round; stroke-linejoin: round; white-space: pre;"><tspan x="-8" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">Chadic</tspan></text>
+        </g>
+        <g id="Semitic" transform="translate(622.5,548.7015977251255)">
+          <circle fill="#1f77b4" r="5"/>
+          <text text-anchor="end" dominant-baseline="text-before-edge" transform="translate(0,-5.5)" style="stroke-width: 2px; paint-order: stroke; stroke: white; stroke-linecap: round; stroke-linejoin: round; white-space: pre;"><tspan x="-8" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">Semitic</tspan></text>
+        </g>
+        <g id="Cushitic" transform="translate(622.5,559.8874612495396)">
+          <circle fill="#1f77b4" r="5"/>
+          <text text-anchor="end" dominant-baseline="text-before-edge" transform="translate(0,-5.5)" style="stroke-width: 2px; paint-order: stroke; stroke: white; stroke-linecap: round; stroke-linejoin: round; white-space: pre;"><tspan x="-8" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">Cushitic</tspan></text>
+        </g>
+        <g id="Vietic" transform="translate(622.5,573.246669779664)">
+          <circle fill="#ff7f0e" r="5"/>
+          <text text-anchor="end" dominant-baseline="text-before-edge" transform="translate(0,-5.5)" style="stroke-width: 2px; paint-order: stroke; stroke: white; stroke-linecap: round; stroke-linejoin: round; white-space: pre;"><tspan x="-8" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">Vietic</tspan></text>
+        </g>
+        <g id="Malayo-Polynesian" transform="translate(622.5,587.1009860263632)">
+          <circle fill="#ff7f0e" r="5"/>
+          <text text-anchor="end" dominant-baseline="text-before-edge" transform="translate(0,-5.5)" style="stroke-width: 2px; paint-order: stroke; stroke: white; stroke-linecap: round; stroke-linejoin: round; white-space: pre;"><tspan x="-8" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">Malayo-Polynesian</tspan></text>
+        </g>
+        <g id="Mon-Khmer" transform="translate(622.5,598.255196674337)">
+          <circle fill="#ff7f0e" r="5"/>
+          <text text-anchor="end" dominant-baseline="text-before-edge" transform="translate(0,-5.5)" style="stroke-width: 2px; paint-order: stroke; stroke: white; stroke-linecap: round; stroke-linejoin: round; white-space: pre;"><tspan x="-8" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">Mon-Khmer</tspan></text>
+        </g>
+        <g id="Bantu" transform="translate(622.5,610.2544762872437)">
+          <circle fill="#7f7f7f" r="5"/>
+          <text text-anchor="end" dominant-baseline="text-before-edge" transform="translate(0,-5.5)" style="stroke-width: 2px; paint-order: stroke; stroke: white; stroke-linecap: round; stroke-linejoin: round; white-space: pre;"><tspan x="-8" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">Bantu</tspan></text>
+        </g>
+        <g id="Volta-Niger" transform="translate(622.5,622.8455228463193)">
+          <circle fill="#7f7f7f" r="5"/>
+          <text text-anchor="end" dominant-baseline="text-before-edge" transform="translate(0,-5.5)" style="stroke-width: 2px; paint-order: stroke; stroke: white; stroke-linecap: round; stroke-linejoin: round; white-space: pre;"><tspan x="-8" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">Volta-Niger</tspan></text>
+        </g>
+        <g id="South Dravidian" transform="translate(622.5,653.7831555899927)">
+          <circle fill="#2ca02c" r="5"/>
+          <text text-anchor="end" dominant-baseline="text-before-edge" transform="translate(0,-5.5)" style="stroke-width: 2px; paint-order: stroke; stroke: white; stroke-linecap: round; stroke-linejoin: round; white-space: pre;"><tspan x="-8" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">South Dravidian</tspan></text>
+        </g>
+        <g id="Common Turkic" transform="translate(622.5,685.247109089119)">
+          <circle fill="#17becf" r="5"/>
+          <text text-anchor="end" dominant-baseline="text-before-edge" transform="translate(0,-5.5)" style="stroke-width: 2px; paint-order: stroke; stroke: white; stroke-linecap: round; stroke-linejoin: round; white-space: pre;"><tspan x="-8" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">Common Turkic</tspan></text>
+        </g>
+        <g id="Japanese" transform="translate(622.5,702.9997589108767)">
+          <circle fill="#9467bd" r="5"/>
+          <text text-anchor="end" dominant-baseline="text-before-edge" transform="translate(0,-5.5)" style="stroke-width: 2px; paint-order: stroke; stroke: white; stroke-linecap: round; stroke-linejoin: round; white-space: pre;"><tspan x="-8" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">Japanese</tspan></text>
+        </g>
+        <g id="Korean" transform="translate(622.5,720.6687247611861)">
+          <circle fill="#8c564b" r="5"/>
+          <text text-anchor="end" dominant-baseline="text-before-edge" transform="translate(0,-5.5)" style="stroke-width: 2px; paint-order: stroke; stroke: white; stroke-linecap: round; stroke-linejoin: round; white-space: pre;"><tspan x="-8" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">Korean</tspan></text>
+        </g>
+        <g id="Tai" transform="translate(622.5,736.2492527568668)">
+          <circle fill="#e377c2" r="5"/>
+          <text text-anchor="end" dominant-baseline="text-before-edge" transform="translate(0,-5.5)" style="stroke-width: 2px; paint-order: stroke; stroke: white; stroke-linecap: round; stroke-linejoin: round; white-space: pre;"><tspan x="-8" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">Tai</tspan></text>
+        </g>
+        <g id="Ugric" transform="translate(622.5,748.7368342150911)">
+          <circle fill="#cccccc" r="5"/>
+          <text text-anchor="end" dominant-baseline="text-before-edge" transform="translate(0,-5.5)" style="stroke-width: 2px; paint-order: stroke; stroke: white; stroke-linecap: round; stroke-linejoin: round; white-space: pre;"><tspan x="-8" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: normal;">Ugric</tspan></text>
+        </g>
+        <g id="Hindi" transform="translate(830,11.263165784908805)">
+          <circle fill="#d62728" r="14.744900757537383"/>
+          <text text-anchor="start" dominant-baseline="text-before-edge" transform="translate(0,-5.5)" style="stroke-width: 2px; paint-order: stroke; stroke: white; stroke-linecap: round; stroke-linejoin: round; white-space: pre;"><tspan x="16.744900757537383" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Hindi</tspan></text>
+        </g>
+        <g id="Bengali" transform="translate(830,41.300125391388846)">
+          <circle fill="#d62728" r="9.675962980010922"/>
+          <text text-anchor="start" dominant-baseline="text-before-edge" transform="translate(0,-5.5)" style="stroke-width: 2px; paint-order: stroke; stroke: white; stroke-linecap: round; stroke-linejoin: round; white-space: pre;"><tspan x="11.675962980010922" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Bengali</tspan></text>
+        </g>
+        <g id="Marathi" transform="translate(830,62.46291801089727)">
+          <circle fill="#d62728" r="5.802458844579284"/>
+          <text text-anchor="start" dominant-baseline="text-before-edge" transform="translate(0,-5.5)" style="stroke-width: 2px; paint-order: stroke; stroke: white; stroke-linecap: round; stroke-linejoin: round; white-space: pre;"><tspan x="7.802458844579284" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Marathi</tspan></text>
+        </g>
+        <g id="Gujarati" transform="translate(830,78.61459564024622)">
+          <circle fill="#d62728" r="4.626294117069338"/>
+          <text text-anchor="start" dominant-baseline="text-before-edge" transform="translate(0,-5.5)" style="stroke-width: 2px; paint-order: stroke; stroke: white; stroke-linecap: round; stroke-linejoin: round; white-space: pre;"><tspan x="6.626294117069338" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Gujarati</tspan></text>
+        </g>
+        <g id="Bhojpuri" transform="translate(830,93.27779778580594)">
+          <circle fill="#d62728" r="4.302531519322827"/>
+          <text text-anchor="start" dominant-baseline="text-before-edge" transform="translate(0,-5.5)" style="stroke-width: 2px; paint-order: stroke; stroke: white; stroke-linecap: round; stroke-linejoin: round; white-space: pre;"><tspan x="6.302531519322827" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Bhojpuri</tspan></text>
+        </g>
+        <g id="Odia" transform="translate(830,106.98829018972474)">
+          <circle fill="#d62728" r="3.666254539603523"/>
+          <text text-anchor="start" dominant-baseline="text-before-edge" transform="translate(0,-5.5)" style="stroke-width: 2px; paint-order: stroke; stroke: white; stroke-linecap: round; stroke-linejoin: round; white-space: pre;"><tspan x="5.666254539603523" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Odia</tspan></text>
+        </g>
+        <g id="Maithili" transform="translate(830,119.87251723724151)">
+          <circle fill="#d62728" r="3.469909148663998"/>
+          <text text-anchor="start" dominant-baseline="text-before-edge" transform="translate(0,-5.5)" style="stroke-width: 2px; paint-order: stroke; stroke: white; stroke-linecap: round; stroke-linejoin: round; white-space: pre;"><tspan x="5.469909148663998" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Maithili</tspan></text>
+        </g>
+        <g id="Sindhi" transform="translate(830,132.0447423321043)">
+          <circle fill="#d62728" r="2.9487746777901718"/>
+          <text text-anchor="start" dominant-baseline="text-before-edge" transform="translate(0,-5.5)" style="stroke-width: 2px; paint-order: stroke; stroke: white; stroke-linecap: round; stroke-linejoin: round; white-space: pre;"><tspan x="4.948774677790172" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Sindhi</tspan></text>
+        </g>
+        <g id="Nepali" transform="translate(830,143.6946508225223)">
+          <circle fill="#d62728" r="2.9435740118248335"/>
+          <text text-anchor="start" dominant-baseline="text-before-edge" transform="translate(0,-5.5)" style="stroke-width: 2px; paint-order: stroke; stroke: white; stroke-linecap: round; stroke-linejoin: round; white-space: pre;"><tspan x="4.9435740118248335" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Nepali</tspan></text>
+        </g>
+        <g id="Magahi" transform="translate(830,155.10475163700414)">
+          <circle fill="#d62728" r="2.7071220003626637"/>
+          <text text-anchor="start" dominant-baseline="text-before-edge" transform="translate(0,-5.5)" style="stroke-width: 2px; paint-order: stroke; stroke: white; stroke-linecap: round; stroke-linejoin: round; white-space: pre;"><tspan x="4.707122000362664" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Magahi</tspan></text>
+        </g>
+        <g id="Saraiki" transform="translate(830,166.23203078695465)">
+          <circle fill="#d62728" r="2.658576410302313"/>
+          <text text-anchor="start" dominant-baseline="text-before-edge" transform="translate(0,-5.5)" style="stroke-width: 2px; paint-order: stroke; stroke: white; stroke-linecap: round; stroke-linejoin: round; white-space: pre;"><tspan x="4.658576410302313" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Saraiki</tspan></text>
+        </g>
+        <g id="Assamese" transform="translate(830,176.98207711598207)">
+          <circle fill="#d62728" r="2.3269868740213298"/>
+          <text text-anchor="start" dominant-baseline="text-before-edge" transform="translate(0,-5.5)" style="stroke-width: 2px; paint-order: stroke; stroke: white; stroke-linecap: round; stroke-linejoin: round; white-space: pre;"><tspan x="4.32698687402133" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Assamese</tspan></text>
+        </g>
+        <g id="Chittagonian" transform="translate(830,187.2204146750659)">
+          <circle fill="#d62728" r="2.1429307211588284"/>
+          <text text-anchor="start" dominant-baseline="text-before-edge" transform="translate(0,-5.5)" style="stroke-width: 2px; paint-order: stroke; stroke: white; stroke-linecap: round; stroke-linejoin: round; white-space: pre;"><tspan x="4.142930721158828" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Chittagonian</tspan></text>
+        </g>
+        <g id="English" transform="translate(830,214.9968331263069)">
+          <circle fill="#d62728" r="20"/>
+          <text text-anchor="start" dominant-baseline="text-before-edge" transform="translate(0,-5.5)" style="stroke-width: 2px; paint-order: stroke; stroke: white; stroke-linecap: round; stroke-linejoin: round; white-space: pre;"><tspan x="22" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">English</tspan></text>
+        </g>
+        <g id="Dutch" transform="translate(830,243.4795531655408)">
+          <circle fill="#d62728" r="2.854666361577714"/>
+          <text text-anchor="start" dominant-baseline="text-before-edge" transform="translate(0,-5.5)" style="stroke-width: 2px; paint-order: stroke; stroke: white; stroke-linecap: round; stroke-linejoin: round; white-space: pre;"><tspan x="4.8546663615777135" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Dutch</tspan></text>
+        </g>
+        <g id="Spanish" transform="translate(830,265.74871257153524)">
+          <circle fill="#d62728" r="13.738634272156226"/>
+          <text text-anchor="start" dominant-baseline="text-before-edge" transform="translate(0,-5.5)" style="stroke-width: 2px; paint-order: stroke; stroke: white; stroke-linecap: round; stroke-linejoin: round; white-space: pre;"><tspan x="15.738634272156226" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Spanish</tspan></text>
+        </g>
+        <g id="French" transform="translate(830,295.05117541188343)">
+          <circle fill="#d62728" r="9.942081722394597"/>
+          <text text-anchor="start" dominant-baseline="text-before-edge" transform="translate(0,-5.5)" style="stroke-width: 2px; paint-order: stroke; stroke: white; stroke-linecap: round; stroke-linejoin: round; white-space: pre;"><tspan x="11.942081722394597" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">French</tspan></text>
+          <circle fill="#d62728" r="9.942" cx="384.854" cy="-223.568" transform="matrix(0, 1, -1, 0, 2.049673, 37.847593)" style="transform-box: fill-box; transform-origin: 50% 50%;"/>
+        </g>
+        <g id="Portuguese" transform="translate(830,319.7454183143773)">
+          <circle fill="#d62728" r="9.094960203717203"/>
+          <text text-anchor="start" dominant-baseline="text-before-edge" transform="translate(0,-5.5)" style="stroke-width: 2px; paint-order: stroke; stroke: white; stroke-linecap: round; stroke-linejoin: round; white-space: pre;"><tspan x="11.094960203717203" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Portuguese</tspan></text>
+        </g>
+        <g id="Italian" transform="translate(830,339.43337799662123)">
+          <circle fill="#d62728" r="4.897281803413267"/>
+          <text text-anchor="start" dominant-baseline="text-before-edge" transform="translate(0,-5.5)" style="stroke-width: 2px; paint-order: stroke; stroke: white; stroke-linecap: round; stroke-linejoin: round; white-space: pre;"><tspan x="6.897281803413267" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Italian</tspan></text>
+        </g>
+        <g id="Romanian" transform="translate(830,353.0059945288319)">
+          <circle fill="#d62728" r="2.932567612134716"/>
+          <text text-anchor="start" dominant-baseline="text-before-edge" transform="translate(0,-5.5)" style="stroke-width: 2px; paint-order: stroke; stroke: white; stroke-linecap: round; stroke-linejoin: round; white-space: pre;"><tspan x="4.932567612134716" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Romanian</tspan></text>
+        </g>
+        <g id="Russian" transform="translate(830,371.1965599877666)">
+          <circle fill="#d62728" r="9.550759712366917"/>
+          <text text-anchor="start" dominant-baseline="text-before-edge" transform="translate(0,-5.5)" style="stroke-width: 2px; paint-order: stroke; stroke: white; stroke-linecap: round; stroke-linejoin: round; white-space: pre;"><tspan x="11.550759712366917" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Russian</tspan></text>
+        </g>
+        <g id="Polish" transform="translate(830,390.2247829945244)">
+          <circle fill="#d62728" r="3.7766698219933996"/>
+          <text text-anchor="start" dominant-baseline="text-before-edge" transform="translate(0,-5.5)" style="stroke-width: 2px; paint-order: stroke; stroke: white; stroke-linecap: round; stroke-linejoin: round; white-space: pre;"><tspan x="5.7766698219934" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Polish</tspan></text>
+        </g>
+        <g id="Ukrainian" transform="translate(830,403.16758078014124)">
+          <circle fill="#d62728" r="3.4185152283950346"/>
+          <text text-anchor="start" dominant-baseline="text-before-edge" transform="translate(0,-5.5)" style="stroke-width: 2px; paint-order: stroke; stroke: white; stroke-linecap: round; stroke-linejoin: round; white-space: pre;"><tspan x="5.418515228395035" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Ukrainian</tspan></text>
+        </g>
+        <g id="Mandarin Chinese" transform="translate(830,432.0711572759915)">
+          <circle fill="#bcbd22" r="19.86024552114164"/>
+          <text text-anchor="start" dominant-baseline="text-before-edge" transform="translate(0,-5.5)" style="stroke-width: 2px; paint-order: stroke; stroke: white; stroke-linecap: round; stroke-linejoin: round; white-space: pre;"><tspan x="21.86024552114164" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Mandarin Chinese</tspan></text>
+        </g>
+        <g id="Wu Chinese" transform="translate(830,462.9069576251006)">
+          <circle fill="#bcbd22" r="5.365604977321977"/>
+          <text text-anchor="start" dominant-baseline="text-before-edge" transform="translate(0,-5.5)" style="stroke-width: 2px; paint-order: stroke; stroke: white; stroke-linecap: round; stroke-linejoin: round; white-space: pre;"><tspan x="7.365604977321977" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Wu Chinese</tspan></text>
+        </g>
+        <g id="Yue Chinese" transform="translate(830,479.0919904057115)">
+          <circle fill="#bcbd22" r="5.096759759166639"/>
+          <text text-anchor="start" dominant-baseline="text-before-edge" transform="translate(0,-5.5)" style="stroke-width: 2px; paint-order: stroke; stroke: white; stroke-linecap: round; stroke-linejoin: round; white-space: pre;"><tspan x="7.096759759166639" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Yue Chinese</tspan></text>
+        </g>
+        <g id="Hakka Chinese" transform="translate(830,494.058518896586)">
+          <circle fill="#bcbd22" r="4.1377259158104716"/>
+          <text text-anchor="start" dominant-baseline="text-before-edge" transform="translate(0,-5.5)" style="stroke-width: 2px; paint-order: stroke; stroke: white; stroke-linecap: round; stroke-linejoin: round; white-space: pre;"><tspan x="6.1377259158104716" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Hakka Chinese</tspan></text>
+        </g>
+        <g id="Xiang Chinese" transform="translate(830,507.5693555646951)">
+          <circle fill="#bcbd22" r="3.62986832165384"/>
+          <text text-anchor="start" dominant-baseline="text-before-edge" transform="translate(0,-5.5)" style="stroke-width: 2px; paint-order: stroke; stroke: white; stroke-linecap: round; stroke-linejoin: round; white-space: pre;"><tspan x="5.62986832165384" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Xiang Chinese</tspan></text>
+        </g>
+        <g id="Burmese" transform="translate(830,520.8377190905753)">
+          <circle fill="#bcbd22" r="3.8933872648680454"/>
+          <text text-anchor="start" dominant-baseline="text-before-edge" transform="translate(0,-5.5)" style="stroke-width: 2px; paint-order: stroke; stroke: white; stroke-linecap: round; stroke-linejoin: round; white-space: pre;"><tspan x="5.893387264868045" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Burmese</tspan></text>
+        </g>
+        <g id="Hausa" transform="translate(830,535.2012332461372)">
+          <circle fill="#1f77b4" r="4.733444680566948"/>
+          <text text-anchor="start" dominant-baseline="text-before-edge" transform="translate(0,-5.5)" style="stroke-width: 2px; paint-order: stroke; stroke: white; stroke-linecap: round; stroke-linejoin: round; white-space: pre;"><tspan x="6.733444680566948" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Hausa</tspan></text>
+        </g>
+        <g id="Amharic" transform="translate(830,548.7015977251255)">
+          <circle fill="#1f77b4" r="3.0235967981931338"/>
+          <text text-anchor="start" dominant-baseline="text-before-edge" transform="translate(0,-5.5)" style="stroke-width: 2px; paint-order: stroke; stroke: white; stroke-linecap: round; stroke-linejoin: round; white-space: pre;"><tspan x="5.023596798193134" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Amharic</tspan></text>
+        </g>
+        <g id="Somali" transform="translate(830,559.8874612495396)">
+          <circle fill="#1f77b4" r="2.401136715869833"/>
+          <text text-anchor="start" dominant-baseline="text-before-edge" transform="translate(0,-5.5)" style="stroke-width: 2px; paint-order: stroke; stroke: white; stroke-linecap: round; stroke-linejoin: round; white-space: pre;"><tspan x="4.401136715869833" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Somali</tspan></text>
+        </g>
+        <g id="Vietnamese" transform="translate(830,573.246669779664)">
+          <circle fill="#ff7f0e" r="5.213662806519918"/>
+          <text text-anchor="start" dominant-baseline="text-before-edge" transform="translate(0,-5.5)" style="stroke-width: 2px; paint-order: stroke; stroke: white; stroke-linecap: round; stroke-linejoin: round; white-space: pre;"><tspan x="7.213662806519918" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Vietnamese</tspan></text>
+          <circle r="5.214" cx="409.205" cy="-501.61" transform="matrix(0, 1, -1, 0, -22.455619, 62.04506)" style="fill: rgb(214, 39, 40); transform-box: fill-box; transform-origin: 50% 50%;"/>
+        </g>
+        <g id="Tagalog" transform="translate(830,587.1009860263632)">
+          <circle fill="#ff7f0e" r="2.9000536285928162"/>
+          <text text-anchor="start" dominant-baseline="text-before-edge" transform="translate(0,-5.5)" style="stroke-width: 2px; paint-order: stroke; stroke: white; stroke-linecap: round; stroke-linejoin: round; white-space: pre;"><tspan x="4.900053628592817" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Tagalog</tspan></text>
+        </g>
+        <g id="Khmer" transform="translate(830,598.255196674337)">
+          <circle fill="#ff7f0e" r="2.4927834821953097"/>
+          <text text-anchor="start" dominant-baseline="text-before-edge" transform="translate(0,-5.5)" style="stroke-width: 2px; paint-order: stroke; stroke: white; stroke-linecap: round; stroke-linejoin: round; white-space: pre;"><tspan x="4.49278348219531" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Khmer</tspan></text>
+        </g>
+        <g id="Yoruba" transform="translate(830,610.2544762872437)">
+          <circle fill="#7f7f7f" r="3.7516242765704364"/>
+          <text text-anchor="start" dominant-baseline="text-before-edge" transform="translate(0,-5.5)" style="stroke-width: 2px; paint-order: stroke; stroke: white; stroke-linecap: round; stroke-linejoin: round; white-space: pre;"><tspan x="5.751624276570436" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Yoruba</tspan></text>
+        </g>
+        <g id="Igbo" transform="translate(830,622.8455228463193)">
+          <circle fill="#7f7f7f" r="3.089103288876065"/>
+          <text text-anchor="start" dominant-baseline="text-before-edge" transform="translate(0,-5.5)" style="stroke-width: 2px; paint-order: stroke; stroke: white; stroke-linecap: round; stroke-linejoin: round; white-space: pre;"><tspan x="5.089103288876065" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Igbo</tspan></text>
+        </g>
+        <g id="Telugu" transform="translate(830,637.4026885263811)">
+          <circle fill="#2ca02c" r="5.73287007228128"/>
+          <text text-anchor="start" dominant-baseline="text-before-edge" transform="translate(0,-5.5)" style="stroke-width: 2px; paint-order: stroke; stroke: white; stroke-linecap: round; stroke-linejoin: round; white-space: pre;"><tspan x="7.73287007228128" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Telugu</tspan></text>
+        </g>
+        <g id="Tamil" transform="translate(830,654.2022183873439)">
+          <circle fill="#2ca02c" r="5.34871948325756"/>
+          <text text-anchor="start" dominant-baseline="text-before-edge" transform="translate(0,-5.5)" style="stroke-width: 2px; paint-order: stroke; stroke: white; stroke-linecap: round; stroke-linejoin: round; white-space: pre;"><tspan x="7.34871948325756" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Tamil</tspan></text>
+        </g>
+        <g id="Kannada" transform="translate(830,669.7445598562531)">
+          <circle fill="#2ca02c" r="4.466009285675513"/>
+          <text text-anchor="start" dominant-baseline="text-before-edge" transform="translate(0,-5.5)" style="stroke-width: 2px; paint-order: stroke; stroke: white; stroke-linecap: round; stroke-linejoin: round; white-space: pre;"><tspan x="6.466009285675513" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Kannada</tspan></text>
+        </g>
+        <g id="Turkish" transform="translate(830,685.247109089119)">
+          <circle fill="#17becf" r="5.308621098820327"/>
+          <text text-anchor="start" dominant-baseline="text-before-edge" transform="translate(0,-5.5)" style="stroke-width: 2px; paint-order: stroke; stroke: white; stroke-linecap: round; stroke-linejoin: round; white-space: pre;"><tspan x="7.308621098820327" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Turkish</tspan></text>
+        </g>
+        <g id="Japanese" transform="translate(830,702.9997589108767)">
+          <circle fill="#9467bd" r="6.733421409429687"/>
+          <text text-anchor="start" dominant-baseline="text-before-edge" transform="translate(0,-5.5)" style="stroke-width: 2px; paint-order: stroke; stroke: white; stroke-linecap: round; stroke-linejoin: round; white-space: pre;"><tspan x="8.733421409429688" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Japanese</tspan></text>
+        </g>
+        <g id="Korean" transform="translate(830,720.6687247611861)">
+          <circle fill="#8c564b" r="5.224293290382577"/>
+          <text text-anchor="start" dominant-baseline="text-before-edge" transform="translate(0,-5.5)" style="stroke-width: 2px; paint-order: stroke; stroke: white; stroke-linecap: round; stroke-linejoin: round; white-space: pre;"><tspan x="7.224293290382577" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Korean</tspan></text>
+        </g>
+        <g id="Thai" transform="translate(830,736.2492527568668)">
+          <circle fill="#e377c2" r="4.6289157999161485"/>
+          <text text-anchor="start" dominant-baseline="text-before-edge" transform="translate(0,-5.5)" style="stroke-width: 2px; paint-order: stroke; stroke: white; stroke-linecap: round; stroke-linejoin: round; white-space: pre;"><tspan x="6.6289157999161485" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Thai</tspan></text>
+        </g>
+        <g id="Hungarian" transform="translate(830,748.7368342150911)">
+          <circle fill="#cccccc" r="2.107550638177311"/>
+          <text text-anchor="start" dominant-baseline="text-before-edge" transform="translate(0,-5.5)" style="stroke-width: 2px; paint-order: stroke; stroke: white; stroke-linecap: round; stroke-linejoin: round; white-space: pre;"><tspan x="4.107550638177311" y="0" dy="0" style="font-family: Arial, sans-serif; font-size: 10px; fill: black; font-weight: bold;">Hungarian</tspan></text>
+        </g>
+      </g>
+    </g>
+    <path style="fill: rgb(216, 216, 216); stroke: rgb(213, 23, 23);" d="M 975.039 -119.841 L 975.311 272.518"/>
+    <path style="fill: rgb(188, 189, 34); stroke: rgb(188, 189, 34);" d="M 975.318 300.362 L 976.212 389.779"/>
+    <path style="fill: rgb(216, 216, 216); stroke: rgb(31, 119, 180);" d="M 975.858 403.911 L 976.019 428.717"/>
+    <path style="fill: rgb(255, 127, 14); stroke: rgb(255, 127, 14);" d="M 976 441.874 L 976.161 467.163"/>
+    <path style="fill: rgb(216, 216, 216); stroke: rgb(127, 127, 127);" d="M 976.1 478.157 L 976.18 492.332"/>
+    <path style="fill: rgb(216, 216, 216); stroke: rgb(44, 160, 44);" d="M 975.973 506.187 L 975.973 538.806"/>
+    <path style="fill: rgb(216, 216, 216); stroke: rgb(23, 190, 207);" d="M 976.02 549.518 L 976.05 559.122"/>
+    <path style="fill: rgb(216, 216, 216); stroke: rgb(148, 103, 189);" d="M 975.955 565.232 L 976.026 578.474"/>
+    <path style="fill: rgb(216, 216, 216); stroke: rgb(140, 86, 75);" d="M 976.103 584.28 L 976.103 594.619"/>
+    <path style="fill: rgb(216, 216, 216); stroke: rgb(227, 119, 194);" d="M 976.061 600.497 L 976.061 609.773"/>
+    <path style="fill: rgb(216, 216, 216); stroke: rgb(204, 204, 204);" d="M 976.065 615.509 L 976.136 619.616"/>
+    <circle fill="#d62728" r="20" cx="1136.434" cy="-59.797" style="transform-box: fill-box; transform-origin: 50% 50%;" transform="matrix(0, 1, -1, 0, 81.725472, -41.477548)"/>
+    <circle fill="#d62728" r="13.739" cx="1180.576" cy="-59.646" transform="matrix(0, 1, -1, 0, 37.432387, 2.513413)" style="transform-box: fill-box; transform-origin: 50% 50%;"/>
+    <circle r="3.752" cx="1256.662" cy="-59.213" transform="matrix(0, 1, -1, 0, -39.086678, 78.166527)" style="fill: rgb(214, 39, 40); transform-box: fill-box; transform-origin: 50% 50%;"/>
+    <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 35px; white-space: pre;" x="981.612" y="74.379">4606.4 M</text>
+    <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 33px; paint-order: stroke; white-space: pre;" x="981.733" y="352.721">1519.7 M</text>
+    <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 30px; white-space: pre;" x="986.657" y="424.312">652.8 M</text>
+    <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 28px; white-space: pre;" x="986.428" y="461.426">497.8 M</text>
+    <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 26px; white-space: pre;" x="986.82" y="494.704">306.2 M</text>
+    <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 25px; white-space: pre;" x="987.036" y="529.981">268.3 M</text>
+    <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 22px; white-space: pre;" x="986.115" y="559.789">131.7 M</text>
+    <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 21px; white-space: pre;" x="985.974" y="580.514">128.4 M</text>
+    <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; white-space: pre; font-size: 15px;" x="989.27" y="595.981">77.3 M</text>
+    <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 13px; white-space: pre;" x="989.504" y="610.034">75.6 M</text>
+    <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 12px; white-space: pre;" x="989.686" y="623.582">12.6 M</text>
+    <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; white-space: pre; font-size: 15px;" x="1243.67" y="-94.134">&gt; 1500 M</text>
+    <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; white-space: pre; font-size: 15px;" x="1237.32" y="-50.156">&gt; 500 M</text>
+    <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; white-space: pre; font-size: 15px;" x="1233.62" y="-15.69">&gt; 300 M</text>
+    <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; white-space: pre; font-size: 15px;" x="1228.18" y="8.752">&gt; 100 M</text>
+    <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; white-space: pre; font-size: 15px;" x="1227.13" y="25.334">&lt; 99 M</text>
+    <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 56px; stroke-width: 6px; white-space: pre;" transform="matrix(1, 0, 0, 1, -41.307446, 1.529916)"><tspan x="7.205" y="-111.606">Un viatge visual</tspan><tspan x="7.205" dy="1em">​</tspan><tspan>per les grans </tspan><tspan x="7.205" dy="1em">​</tspan><tspan>Famílies </tspan><tspan x="7.205" dy="1em">​</tspan><tspan>Lingüístiques</tspan><tspan x="7.205" dy="1em">​</tspan><tspan>del planeta</tspan></text>
+  </g>
+  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 5px; white-space: pre;" x="427.425" y="37.938">Número de parlants</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 5px; white-space: pre;" x="250.253" y="362.576">SOURCE: [https://www.kaggle.com/datasets/narmelan/100-most-spoken-languages-around-the-world/data]</text>
+  <text style="fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 5px; white-space: pre;" x="274.515" y="368.682">[https://en.wikipedia.org/]</text>
+</svg>
