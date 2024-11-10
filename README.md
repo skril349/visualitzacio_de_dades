@@ -15,6 +15,26 @@ Cada tècnica s’ha aplicat a un conjunt de dades obert i es presenta en format
 
 ```plaintext
 PAC2/
-├── Linear_Dendrogram.png
-├── Circle_Packing.png
-└── Convex_Hull.png
+├── Linear_Dendrogram.svg
+├── Circle_Packing.svg
+└── Convex_Hull.svg
+```
+
+## Com Visualitzar les Infografies
+Cada infografia és accessible directament en format .svg dins de la carpeta PAC2. Pots descarregar les imatges o visualitzar-les directament a GitHub.
+
+## Requeriments
+Aquest projecte no requereix instal·lacions addicionals, ja que les infografies es troben en format d'imatge estàtic. Per fer les edicions de les imatges s'han utilitzat les següents eines:
+
+- https://boxy-svg.com/
+- https://coolors.co/
+- https://app.rawgraphs.io/
+- https://www.graphica.app/
+
+
+## Publicació i Accés
+Les visualitzacions estan disponibles públicament en línia per a facilitar-ne l'accés i la visualització, seguint els requisits de la PAC2 de la UOC.
+
+**Autor:** Toni Vives Cabaleiro
+**Màster:** Ciència de Dades - UOC
+**Assignatura:** Visualització de Dades
